@@ -43,7 +43,7 @@ else:
         q = q_list[q_index]
 
         st.subheader(f"Question {q_index + 1} / {len(q_list)}")
-        st.write(q["question"])
+        st.markdown(q["question"])
 
         choice = st.radio("Select your answer:", q["options"])
 
@@ -80,4 +80,5 @@ else:
 
         if st.button("🔄 Restart Exam"):
             st.session_state.started = False
+
             st.rerun()
