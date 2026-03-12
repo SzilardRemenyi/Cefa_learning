@@ -1,32 +1,30 @@
 [
 {
-"topic":"Financial services",
-"question":"Az alábbi szolgáltatások közül melyik minősül pénzügyi szolgáltatásnak?",
+"topic":"Pénzügyi szolgáltatások",
+"question":"Az alábbi szolgáltatások közül melyik minősül pénzügyi szolgáltatásnak?\n\nI. Hitel- és pénzkölcsön nyújtása.\nII. Betétgyűjtés.\nIII. Megbízás felvétele és továbbítása pénzügyi eszközre.\nIV. Biztosítás közvetítése.",
 "options":[
 "kizárólag I, II",
 "kizárólag III, IV",
 "kizárólag II, III",
 "I, II, III és IV"
 ],
-"answer":0,
-"explanation":"A Hpt. szerint a hitelnyújtás és a betétgyűjtés pénzügyi szolgáltatás, míg a megbízás felvétele befektetési szolgáltatás, a biztosításközvetítés pedig biztosítási szolgáltatás."
+"answer":0
 },
 
 {
-"topic":"Corporate law",
+"topic":"Jogi személy",
 "question":"A jogi személy a tartozásaiért – az általános szabályok szerint – milyen vagyonnal áll helyt?",
 "options":[
-"A tagok vagyonával",
-"A saját vagyonával",
-"A vezető tisztségviselők vagyonával",
-"A tagok és a vezető tisztségviselők vagyonával"
+"A tagok vagyonával.",
+"A saját vagyonával.",
+"A vezető tisztségviselők vagyonával.",
+"A tagok és a vezető tisztségviselők vagyonával."
 ],
-"answer":1,
-"explanation":"A jogi személy főszabályként a saját vagyonával felel kötelezettségeiért."
+"answer":1
 },
 
 {
-"topic":"Financial supervision",
+"topic":"Felügyelet",
 "question":"Az alábbi intézmények közül melyik látja el ma Magyarországon a pénzügyi közvetítőrendszer felügyeletét?",
 "options":[
 "a Pénzügyi Szervezetek Állami Felügyelete",
@@ -34,12 +32,11 @@
 "a kormány",
 "az Európai Központi Bank"
 ],
-"answer":1,
-"explanation":"2013 óta az MNB látja el a pénzügyi felügyeleti funkciókat."
+"answer":1
 },
 
 {
-"topic":"Contract law",
+"topic":"Szerződés",
 "question":"Az alábbi esetek közül melyik esetben szűnik meg a szerződés valamelyik fél egyoldalú nyilatkozatával a jövőre nézve?",
 "options":[
 "elállás esetén",
@@ -47,150 +44,138 @@
 "felbontás esetén",
 "a teljesítés lehetetlenné válása esetén"
 ],
-"answer":1,
-"explanation":"A felmondás a jövőre nézve szünteti meg a szerződést."
+"answer":1
 },
 
 {
-"topic":"Contract law",
+"topic":"Szerződés",
 "question":"Az alábbiak közül melyik az a pénzösszeg, amelynek megfizetése ellenében a felek az elállás jogát kiköthetik?",
 "options":[
-"Előleg",
-"Foglaló",
-"Bánatpénz",
-"Kötbér"
+"Előleg.",
+"Foglaló.",
+"Bánatpénz.",
+"Kötbér."
 ],
-"answer":2,
-"explanation":"A bánatpénz ellenében a felek az elállás jogát köthetik ki."
+"answer":2
 },
 
 {
-"topic":"Contract law",
-"question":"Az alábbiak közül mennyi a Ptk. szerinti általános elévülési idő?",
+"topic":"Elévülés",
+"question":"Az alábbiak közül mennyi a Ptk. (2013. évi V. törvény a Polgári Törvénykönyvről) szerinti általános elévülési idő?",
 "options":[
 "1 év",
 "5 év",
 "10 év",
 "15 év"
 ],
-"answer":1,
-"explanation":"A Ptk. szerinti általános elévülési idő 5 év."
+"answer":1
 },
 
 {
-"topic":"Contract law",
-"question":"Érvénytelen szerződés esetén mikor lehet kérni az eredeti állapot helyreállítását?",
+"topic":"Érvénytelen szerződés",
+"question":"Érvénytelen szerződés esetén az alábbi esetek közül mikor lehet kérni az eredeti állapot helyreállítását?",
 "options":[
-"Ha a szolgáltatást pénzben nyújtották",
-"Ha a szolgáltatás természetben visszatéríthető és reverzibilis",
-"Bármilyen szerződés esetén",
-"Bármilyen szerződés esetén különösen szolgáltatásoknál"
+"Ha a szolgáltatást pénzben nyújtották.",
+"Ha a szolgáltatás jellege alapján a szolgáltatás természetben visszatéríthető, és a szolgáltatás visszafordítható (reverzibilis), így különösen dolgok tulajdonjogának átruházása esetén.",
+"Bármilyen szerződés esetén.",
+"Bármilyen szerződés esetén, különösen a szolgáltatások esetében."
 ],
-"answer":1,
-"explanation":"Az eredeti állapot helyreállítása akkor lehetséges, ha a szolgáltatás természetben visszaadható."
+"answer":1
 },
 
 {
-"topic":"Collateral law",
-"question":"Az alábbiak közül melyik eszközön alapítható óvadék?",
+"topic":"Óvadék",
+"question":"Az alábbiak közül melyik eszközön alapítható óvadék?\n\nI. Készpénzen.\nII. Nyomdai úton előállított értékpapíron.\nIII. Fizetésiszámla-követelésen.\nIV. Dematerializált értékpapíron.",
 "options":[
 "kizárólag I, III",
 "kizárólag II, IV",
 "kizárólag II, III, IV",
 "I, II, III és IV"
 ],
-"answer":3,
-"explanation":"Óvadék alapítható készpénzen, értékpapíron és fizetési számla követelésen is."
+"answer":3
 },
 
 {
-"topic":"Financial regulation",
-"question":"Milyen szintű jogszabályok szabályozzák Magyarországon a tőkepiac működését?",
+"topic":"Tőkepiac szabályozása",
+"question":"Az alábbiak közül milyen szintű jogszabályok szabályozzák Magyarországon a tőkepiac működését?\n\nI. uniós rendeletek\nII. törvények\nIII. kormányrendeletek\nIV. a Magyar Nemzeti Bank elnökének rendeletei",
 "options":[
 "kizárólag I, II",
 "kizárólag II, IV",
 "kizárólag II, III, IV",
 "I, II, III és IV"
 ],
-"answer":3,
-"explanation":"A tőkepiacot uniós rendeletek, törvények, kormányrendeletek és MNB rendeletek szabályozzák."
+"answer":3
 },
 
 {
-"topic":"EU institutions",
-"question":"Melyik intézmény minősül európai szabályozónak?",
+"topic":"EU intézmények",
+"question":"Az alábbiak közül melyik intézmény minősül ún. európai szabályozónak?\n\nI. Európai Parlament\nII. Európai Bizottság\nIII. a magyar parlament\nIV. a magyar kormány",
 "options":[
 "kizárólag I, II",
 "kizárólag II, IV",
 "kizárólag I, III, IV",
 "kizárólag I, II, III, IV"
 ],
-"answer":0,
-"explanation":"Az európai szabályozási funkciókat az Európai Parlament és az Európai Bizottság látja el."
+"answer":0
 },
 
 {
-"topic":"EU law",
-"question":"Melyik uniós jogi aktus kötelező és közvetlenül alkalmazandó a tagállamokban?",
+"topic":"EU jog",
+"question":"Az alábbi uniós jogi aktusok közül melyik kötelező és közvetlenül alkalmazandó az Európai Unió tagállamaiban?\n\nI. a rendelet\nII. az irányelv\nIII. a határozat\nIV. az ajánlás",
 "options":[
 "kizárólag I, II",
 "kizárólag II, IV",
 "kizárólag I, III",
 "kizárólag I, III, IV"
 ],
-"answer":2,
-"explanation":"Az EU rendelet közvetlenül alkalmazandó, a határozat kötelező azokra akikre vonatkozik."
+"answer":2
 },
 
 {
-"topic":"EU law",
-"question":"Melyik megállapítás igaz az EU felhatalmazáson alapuló jogi aktusára?",
+"topic":"EU jog",
+"question":"Az alábbiak közül melyik megállapítás IGAZ az Európai Unió felhatalmazáson alapuló jogi aktusára (pl. felhatalmazáson alapuló rendeletre)?\n\nI. Általános hatályú.\nII. A jogalkotási aktusokat nem egészítheti ki.\nIII. Kötelező erővel bír.\nIV. Elfogadására a Bizottság kapott felhatalmazást.",
 "options":[
 "kizárólag I, II",
 "kizárólag II, III, IV",
 "kizárólag I, III, IV",
 "I, II, III és IV"
 ],
-"answer":2,
-"explanation":"A felhatalmazáson alapuló aktus általános hatályú, kötelező és a Bizottság fogadja el."
+"answer":2
 },
 
 {
-"topic":"MNB supervision",
-"question":"Melyik minősül az MNB felügyeleti szabályozó eszközének?",
+"topic":"MNB",
+"question":"Az alábbiak közül melyik minősül a Magyar Nemzeti Bank felügyeleti szabályozó eszközének?\n\nI. a Magyar Nemzeti Bank elnökének rendelete\nII. a módszertani kézikönyv\nIII. állásfoglalás\nIV. vélemény",
 "options":[
 "kizárólag I, III",
 "kizárólag II, III",
 "kizárólag I, III, IV",
 "I, II, III és IV"
 ],
-"answer":2,
-"explanation":"Az MNB rendeletet, állásfoglalást és véleményt adhat ki felügyeleti eszközként."
+"answer":2
 },
 
 {
-"topic":"EU financial authorities",
-"question":"Mely testületek tartoznak az EU pénzügyi piaci hatóságai közé?",
+"topic":"EU felügyelet",
+"question":"Az alábbi testületek közül melyik tartozik az Európai Unió pénzügyi piaci hatóságai közé?\n\nI. az Európai Értékpapír-piaci Hatóság (ESMA)\nII. az Európai Bankhatóság (EBA)\nIII. az Európai Biztosítás és Foglalkoztatóinyugdíj-hatóság (EIOPA)\nIV. az Európai Számvevőszék (ECCA)",
 "options":[
 "kizárólag I, II",
 "kizárólag II, III",
 "kizárólag I, II, III",
 "I, II, III és IV"
 ],
-"answer":2,
-"explanation":"Az ESMA, EBA és EIOPA az európai felügyeleti hatóságok."
+"answer":2
 },
 
 {
-"topic":"Hungarian capital market",
-"question":"Melyik intézmény látja el Magyarországon az elszámolási feladatokat a tőkepiacon?",
+"topic":"Tőkepiac",
+"question":"Az alábbiak közül melyik intézmény látja el Magyarországon az elszámolási feladatokat a tőkepiacon?",
 "options":[
 "a KELER Központi Értéktár Zrt.",
 "a KELER KSZF Központi Szerződő Fél Zrt.",
 "a Budapesti Értéktőzsde Zrt.",
 "Magyarországon nincs ilyen intézmény"
 ],
-"answer":1,
-"explanation":"A KELER KSZF a központi szerződő fél és elszámolóház."
+"answer":1
 }
 ]
