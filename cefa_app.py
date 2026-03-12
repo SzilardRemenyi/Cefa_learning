@@ -2,7 +2,7 @@ import streamlit as st
 import json
 import random
 
-st.set_page_config(page_title="CEFA Exam Trainer", page_icon="📊")
+st.set_page_config(page_title="CEFA Exam Trainer", page_icon="🎓")
 
 st.title("🎓 CEFA Practice")
 
@@ -117,6 +117,7 @@ else:
             st.session_state.score = 0
             st.session_state.answered = False
             st.rerun()
+
 
 
 
