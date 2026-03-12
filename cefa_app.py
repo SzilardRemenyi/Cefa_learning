@@ -67,6 +67,7 @@ else:
                 user_index = q["options"].index(choice)
                 st.session_state.user_index = user_index
                 st.session_state.answered = True
+                st.rerun()
 
         if st.session_state.answered:
 
@@ -115,3 +116,4 @@ else:
             st.session_state.score = 0
             st.session_state.answered = False
             st.rerun()
+
