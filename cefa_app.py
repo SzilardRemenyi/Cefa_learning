@@ -41,6 +41,7 @@ else:
     progress = q_index / len(q_list)
     st.progress(progress)
 
+    # VAN MÉG KÉRDÉS
     if q_index < len(q_list):
 
         q = q_list[q_index]
@@ -76,12 +77,9 @@ else:
             correct_text = q["options"][correct_index]
 
             if user_index == correct_index:
-
                 st.success("✅ Correct!")
                 st.session_state.score += 1
-
             else:
-
                 st.error(f"❌ Wrong. Correct answer: {correct_letter}) {correct_text}")
 
                 if q.get("explanation"):
@@ -92,3 +90,28 @@ else:
                 st.session_state.q_index += 1
                 st.session_state.answered = False
                 st.rerun()
+
+    # NINCS TÖBB KÉRDÉS
+    else:
+
+        st.subheader("🎉 Exam Finished")
+
+        score = st.session_state.score
+        total = len(q_list)
+        percent = round(score / total * 100, 1)
+
+        st.write(f"Score: **{score} / {total}**")
+        st.write(f"Result: **{percent}%**")
+
+        if percent >= 70:
+            st.success("✅ Passed!")
+        else:
+            st.error("❌ Try again")
+
+        if st.button("🔄 Restart Exam"):
+
+            st.session_state.started = False
+            st.session_state.q_index = 0
+            st.session_state.score = 0
+            st.session_state.answered = False
+            st.rerun()
