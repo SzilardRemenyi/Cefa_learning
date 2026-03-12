@@ -43,9 +43,19 @@ else:
         q = q_list[q_index]
 
         st.subheader(f"Question {q_index + 1} / {len(q_list)}")
-        st.markdown(q["question"])
 
-        choice = st.radio("Select your answer:", q["options"])
+        # biztosítjuk a sortöréseket az I., II., III., IV. soroknál
+        formatted_question = q["question"].replace(" II.", "\n\nII.") \
+                                          .replace(" III.", "\n\nIII.") \
+                                          .replace(" IV.", "\n\nIV.")
+
+        st.markdown(formatted_question)
+
+        choice = st.radio(
+            "Select your answer:",
+            q["options"],
+            key=f"q_{q_index}"
+        )
 
         if st.button("Submit Answer"):
 
@@ -54,10 +64,16 @@ else:
             if user_index == q["answer"]:
                 st.success("✅ Correct!")
                 st.session_state.score += 1
+
             else:
-                correct = q["options"][q["answer"]]
-                st.error(f"❌ Wrong. Correct answer: {correct}")
-                st.write("Explanation:", q["explanation"])
+                correct_index = q["answer"]
+                correct_letter = chr(97 + correct_index)
+                correct_text = q["options"][correct_index]
+
+                st.error(f"❌ Wrong. Correct answer: {correct_letter}) {correct_text}")
+
+                if q.get("explanation"):
+                    st.write("Explanation:", q["explanation"])
 
             st.session_state.q_index += 1
             st.rerun()
@@ -80,5 +96,4 @@ else:
 
         if st.button("🔄 Restart Exam"):
             st.session_state.started = False
-
             st.rerun()
