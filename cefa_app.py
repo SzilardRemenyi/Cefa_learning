@@ -57,7 +57,8 @@ else:
         choice = st.radio(
             "Select your answer:",
             q["options"],
-            key=f"q_{q_index}"
+            key=f"q_{q_index}",
+            disabled=st.session_state.answered
         )
 
         if not st.session_state.answered:
@@ -116,4 +117,5 @@ else:
             st.session_state.score = 0
             st.session_state.answered = False
             st.rerun()
+
 
