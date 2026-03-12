@@ -78,9 +78,13 @@ else:
             correct_letter = chr(97 + correct_index)
             correct_text = q["options"][correct_index]
 
+
             if user_index == correct_index:
                 st.success("✅ Correct!")
+
+            if not st.session_state.score_added:
                 st.session_state.score += 1
+                st.session_state.score_added = True
             else:
                 st.error(f"❌ Wrong. Correct answer: {correct_letter}) {correct_text}")
 
@@ -91,6 +95,7 @@ else:
 
                 st.session_state.q_index += 1
                 st.session_state.answered = False
+                st.session_state.score_added = False
                 st.rerun()
 
     # NINCS TÖBB KÉRDÉS
@@ -117,6 +122,7 @@ else:
             st.session_state.score = 0
             st.session_state.answered = False
             st.rerun()
+
 
 
 
