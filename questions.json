@@ -1,35 +1,196 @@
 [
-  {
-    "question": "What best describes insider trading?",
-    "options": [
-      "Trading based on public information",
-      "Trading using material non-public information",
-      "Trading using technical indicators",
-      "Trading derivatives"
-    ],
-    "answer": 1,
-    "explanation": "Insider trading involves trading based on material non-public information."
-  },
-  {
-    "question": "What is the main goal of MiFID II?",
-    "options": [
-      "Regulate insurance",
-      "Increase investor protection and market transparency",
-      "Control exchange rates",
-      "Supervise central banks"
-    ],
-    "answer": 1,
-    "explanation": "MiFID II aims to increase transparency and protect investors in EU financial markets."
-  },
-  {
-    "question": "What does fiduciary duty mean?",
-    "options": [
-      "Act in the best interest of the client",
-      "Maximize personal profit",
-      "Follow competitor strategies",
-      "Increase trading frequency"
-    ],
-    "answer": 0,
-    "explanation": "A fiduciary must act in the client's best interest."
-  }
+{
+"topic":"Financial services",
+"question":"Az alábbi szolgáltatások közül melyik minősül pénzügyi szolgáltatásnak?",
+"options":[
+"kizárólag I, II",
+"kizárólag III, IV",
+"kizárólag II, III",
+"I, II, III és IV"
+],
+"answer":0,
+"explanation":"A Hpt. szerint a hitelnyújtás és a betétgyűjtés pénzügyi szolgáltatás, míg a megbízás felvétele befektetési szolgáltatás, a biztosításközvetítés pedig biztosítási szolgáltatás."
+},
+
+{
+"topic":"Corporate law",
+"question":"A jogi személy a tartozásaiért – az általános szabályok szerint – milyen vagyonnal áll helyt?",
+"options":[
+"A tagok vagyonával",
+"A saját vagyonával",
+"A vezető tisztségviselők vagyonával",
+"A tagok és a vezető tisztségviselők vagyonával"
+],
+"answer":1,
+"explanation":"A jogi személy főszabályként a saját vagyonával felel kötelezettségeiért."
+},
+
+{
+"topic":"Financial supervision",
+"question":"Az alábbi intézmények közül melyik látja el ma Magyarországon a pénzügyi közvetítőrendszer felügyeletét?",
+"options":[
+"a Pénzügyi Szervezetek Állami Felügyelete",
+"a Magyar Nemzeti Bank",
+"a kormány",
+"az Európai Központi Bank"
+],
+"answer":1,
+"explanation":"2013 óta az MNB látja el a pénzügyi felügyeleti funkciókat."
+},
+
+{
+"topic":"Contract law",
+"question":"Az alábbi esetek közül melyik esetben szűnik meg a szerződés valamelyik fél egyoldalú nyilatkozatával a jövőre nézve?",
+"options":[
+"elállás esetén",
+"felmondás esetén",
+"felbontás esetén",
+"a teljesítés lehetetlenné válása esetén"
+],
+"answer":1,
+"explanation":"A felmondás a jövőre nézve szünteti meg a szerződést."
+},
+
+{
+"topic":"Contract law",
+"question":"Az alábbiak közül melyik az a pénzösszeg, amelynek megfizetése ellenében a felek az elállás jogát kiköthetik?",
+"options":[
+"Előleg",
+"Foglaló",
+"Bánatpénz",
+"Kötbér"
+],
+"answer":2,
+"explanation":"A bánatpénz ellenében a felek az elállás jogát köthetik ki."
+},
+
+{
+"topic":"Contract law",
+"question":"Az alábbiak közül mennyi a Ptk. szerinti általános elévülési idő?",
+"options":[
+"1 év",
+"5 év",
+"10 év",
+"15 év"
+],
+"answer":1,
+"explanation":"A Ptk. szerinti általános elévülési idő 5 év."
+},
+
+{
+"topic":"Contract law",
+"question":"Érvénytelen szerződés esetén mikor lehet kérni az eredeti állapot helyreállítását?",
+"options":[
+"Ha a szolgáltatást pénzben nyújtották",
+"Ha a szolgáltatás természetben visszatéríthető és reverzibilis",
+"Bármilyen szerződés esetén",
+"Bármilyen szerződés esetén különösen szolgáltatásoknál"
+],
+"answer":1,
+"explanation":"Az eredeti állapot helyreállítása akkor lehetséges, ha a szolgáltatás természetben visszaadható."
+},
+
+{
+"topic":"Collateral law",
+"question":"Az alábbiak közül melyik eszközön alapítható óvadék?",
+"options":[
+"kizárólag I, III",
+"kizárólag II, IV",
+"kizárólag II, III, IV",
+"I, II, III és IV"
+],
+"answer":3,
+"explanation":"Óvadék alapítható készpénzen, értékpapíron és fizetési számla követelésen is."
+},
+
+{
+"topic":"Financial regulation",
+"question":"Milyen szintű jogszabályok szabályozzák Magyarországon a tőkepiac működését?",
+"options":[
+"kizárólag I, II",
+"kizárólag II, IV",
+"kizárólag II, III, IV",
+"I, II, III és IV"
+],
+"answer":3,
+"explanation":"A tőkepiacot uniós rendeletek, törvények, kormányrendeletek és MNB rendeletek szabályozzák."
+},
+
+{
+"topic":"EU institutions",
+"question":"Melyik intézmény minősül európai szabályozónak?",
+"options":[
+"kizárólag I, II",
+"kizárólag II, IV",
+"kizárólag I, III, IV",
+"kizárólag I, II, III, IV"
+],
+"answer":0,
+"explanation":"Az európai szabályozási funkciókat az Európai Parlament és az Európai Bizottság látja el."
+},
+
+{
+"topic":"EU law",
+"question":"Melyik uniós jogi aktus kötelező és közvetlenül alkalmazandó a tagállamokban?",
+"options":[
+"kizárólag I, II",
+"kizárólag II, IV",
+"kizárólag I, III",
+"kizárólag I, III, IV"
+],
+"answer":2,
+"explanation":"Az EU rendelet közvetlenül alkalmazandó, a határozat kötelező azokra akikre vonatkozik."
+},
+
+{
+"topic":"EU law",
+"question":"Melyik megállapítás igaz az EU felhatalmazáson alapuló jogi aktusára?",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III, IV",
+"kizárólag I, III, IV",
+"I, II, III és IV"
+],
+"answer":2,
+"explanation":"A felhatalmazáson alapuló aktus általános hatályú, kötelező és a Bizottság fogadja el."
+},
+
+{
+"topic":"MNB supervision",
+"question":"Melyik minősül az MNB felügyeleti szabályozó eszközének?",
+"options":[
+"kizárólag I, III",
+"kizárólag II, III",
+"kizárólag I, III, IV",
+"I, II, III és IV"
+],
+"answer":2,
+"explanation":"Az MNB rendeletet, állásfoglalást és véleményt adhat ki felügyeleti eszközként."
+},
+
+{
+"topic":"EU financial authorities",
+"question":"Mely testületek tartoznak az EU pénzügyi piaci hatóságai közé?",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
+"answer":2,
+"explanation":"Az ESMA, EBA és EIOPA az európai felügyeleti hatóságok."
+},
+
+{
+"topic":"Hungarian capital market",
+"question":"Melyik intézmény látja el Magyarországon az elszámolási feladatokat a tőkepiacon?",
+"options":[
+"a KELER Központi Értéktár Zrt.",
+"a KELER KSZF Központi Szerződő Fél Zrt.",
+"a Budapesti Értéktőzsde Zrt.",
+"Magyarországon nincs ilyen intézmény"
+],
+"answer":1,
+"explanation":"A KELER KSZF a központi szerződő fél és elszámolóház."
+}
 ]
