@@ -35,6 +35,9 @@ else:
     q_list = st.session_state.questions
     q_index = st.session_state.q_index
 
+    if "answered" not in st.session_state:
+        st.session_state.answered = False
+
     progress = q_index / len(q_list)
     st.progress(progress)
 
@@ -44,7 +47,6 @@ else:
 
         st.subheader(f"Question {q_index + 1} / {len(q_list)}")
 
-        # biztosítjuk a sortöréseket az I., II., III., IV. soroknál
         formatted_question = q["question"].replace(" II.", "\n\nII.") \
                                           .replace(" III.", "\n\nIII.") \
                                           .replace(" IV.", "\n\nIV.")
@@ -57,43 +59,36 @@ else:
             key=f"q_{q_index}"
         )
 
-        if st.button("Submit Answer"):
+        if not st.session_state.answered:
 
-            user_index = q["options"].index(choice)
+            if st.button("Submit Answer"):
 
-            if user_index == q["answer"]:
+                user_index = q["options"].index(choice)
+                st.session_state.user_index = user_index
+                st.session_state.answered = True
+
+        if st.session_state.answered:
+
+            user_index = st.session_state.user_index
+            correct_index = q["answer"]
+
+            correct_letter = chr(97 + correct_index)
+            correct_text = q["options"][correct_index]
+
+            if user_index == correct_index:
+
                 st.success("✅ Correct!")
                 st.session_state.score += 1
 
             else:
-                correct_index = q["answer"]
-                correct_letter = chr(97 + correct_index)
-                correct_text = q["options"][correct_index]
 
                 st.error(f"❌ Wrong. Correct answer: {correct_letter}) {correct_text}")
 
                 if q.get("explanation"):
-                    st.write("Explanation:", q["explanation"])
+                    st.info(q["explanation"])
 
-            st.session_state.q_index += 1
-            st.rerun()
+            if st.button("Next Question ➡️"):
 
-    else:
-
-        st.subheader("🎉 Exam Finished")
-
-        score = st.session_state.score
-        total = len(q_list)
-        percent = round(score / total * 100, 1)
-
-        st.write(f"Score: **{score} / {total}**")
-        st.write(f"Result: **{percent}%**")
-
-        if percent >= 70:
-            st.success("✅ Passed!")
-        else:
-            st.error("❌ Try again")
-
-        if st.button("🔄 Restart Exam"):
-            st.session_state.started = False
-            st.rerun()
+                st.session_state.q_index += 1
+                st.session_state.answered = False
+                st.rerun()
