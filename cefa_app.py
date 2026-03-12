@@ -4,7 +4,7 @@ import random
 
 st.set_page_config(page_title="CEFA Exam Trainer", page_icon="📊")
 
-st.title("📊 CEFA Legal Exam Trainer")
+st.title("🎓 CEFA gyakorláshoz")
 
 # Load questions
 with open("questions.json", "r", encoding="utf-8") as f:
@@ -117,5 +117,6 @@ else:
             st.session_state.score = 0
             st.session_state.answered = False
             st.rerun()
+
 
 
