@@ -105,7 +105,7 @@ else:
         st.write(f"Score: **{score} / {total}**")
         st.write(f"Result: **{percent}%**")
 
-        if percent >= 70:
+        if percent >= 60:
             st.success("✅ Passed!")
         else:
             st.error("❌ Try again")
@@ -117,6 +117,7 @@ else:
             st.session_state.score = 0
             st.session_state.answered = False
             st.rerun()
+
 
 
 
