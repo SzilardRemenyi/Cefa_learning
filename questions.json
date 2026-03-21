@@ -1,155 +1,167 @@
 [
-{"question":"Az alábbi szolgáltatások közül melyik minősül pénzügyi szolgáltatásnak?\n\nI. Hitel- és pénzkölcsön nyújtása.\nII. Betétgyűjtés.\nIII. Megbízás felvétele és továbbítása pénzügyi eszközre.\nIV. Biztosítás közvetítése.","options":["kizárólag I, II","kizárólag III, IV","kizárólag II, III","I, II, III és IV"],"answer":0},
-
-{"question":"A jogi személy a tartozásaiért – az általános szabályok szerint – milyen vagyonnal áll helyt?","options":["A tagok vagyonával.","A saját vagyonával.","A vezető tisztségviselők vagyonával.","A tagok és a vezető tisztségviselők vagyonával."],"answer":1},
-
-{"question":"Az alábbi intézmények közül melyik látja el ma Magyarországon a pénzügyi közvetítőrendszer felügyeletét?","options":["a Pénzügyi Szervezetek Állami Felügyelete","a Magyar Nemzeti Bank","a kormány","az Európai Központi Bank"],"answer":1},
-
-{"question":"Az alábbi esetek közül melyik esetben szűnik meg a szerződés valamelyik fél egyoldalú nyilatkozatával a jövőre nézve?","options":["elállás esetén","felmondás esetén","felbontás esetén","a teljesítés lehetetlenné válása esetén"],"answer":1},
-
-{"question":"Az alábbiak közül melyik az a pénzösszeg, amelynek megfizetése ellenében a felek az elállás jogát kiköthetik?","options":["Előleg.","Foglaló.","Bánatpénz.","Kötbér."],"answer":2},
-
-{"question":"Az alábbiak közül mennyi a Ptk. szerinti általános elévülési idő?","options":["1 év","5 év","10 év","15 év"],"answer":1},
-
-{"question":"Érvénytelen szerződés esetén mikor kérhető az eredeti állapot helyreállítása?","options":["pénznél","reverzibilis esetben","bármikor","mindig"],"answer":1},
-
-{"question":"Az alábbiak közül melyik eszközön alapítható óvadék?","options":["kizárólag I, III","kizárólag II, IV","kizárólag II, III, IV","I, II, III és IV"],"answer":3},
-
-{"question":"Milyen jogszabályok szabályozzák a tőkepiacot?","options":["kizárólag I, II","kizárólag II, IV","kizárólag II, III, IV","I, II, III és IV"],"answer":3},
-
-{"question":"Melyik intézmény európai szabályozó?","options":["kizárólag I, II","kizárólag II, IV","kizárólag I, III, IV","mind"],"answer":0},
-
-{"question":"Mely uniós jogi aktus közvetlenül alkalmazandó?","options":["kizárólag I, II","kizárólag II, IV","kizárólag I, III","kizárólag I, III, IV"],"answer":2},
-
-{"question":"Mi igaz a felhatalmazáson alapuló aktusra?","options":["kizárólag I, II","kizárólag II, III, IV","kizárólag I, III, IV","mind"],"answer":2},
-
-{"question":"Mi MNB eszköz?","options":["kizárólag I, III","kizárólag II, III","kizárólag I, III, IV","mind"],"answer":2},
-
-{"question":"EU pénzügyi hatóságok?","options":["kizárólag I, II","kizárólag II, III","kizárólag I, II, III","mind"],"answer":2},
-
-{"question":"Ki végzi elszámolást?","options":["KELER","KSZF","BÉT","nincs"],"answer":1},
-
-{"question":"BEVA mikor fizet?","options":["soha","nem fizet","felszámolás esetén","MNB dönt"],"answer":2},
-
-{"question":"Mi pénzügyi eszköz?","options":["kizárólag I, II","kizárólag III, IV","kizárólag I, III, IV","mind"],"answer":1},
-
-{"question":"Ki vezet központi számlát?","options":["kibocsátó","MNB","KSZF","KELER"],"answer":3},
-
-{"question":"Mi dematerializált?","options":["okirati","demat","pénz","határidős"],"answer":1},
-
-{"question":"Mi befektetési szolgáltatás?","options":["I, II","II, III","I, II, III","mind"],"answer":2},
-
-{"question":"Mi alkalmassági teszt célja?","options":["megfelelés","alkalmasság","kockázat","marketing"],"answer":1},
-
-{"question":"Mi MIFID?","options":["irányelv","rendelet","ajánlás","nem"],"answer":0},
-
-{"question":"Mi UCITS?","options":["alap","bank","biztosító","nem"],"answer":0},
-
-{"question":"Mi AIF?","options":["alternatív alap","bank","biztosító","nem"],"answer":0},
-
-{"question":"Mi portfóliókezelés?","options":["I, II, III","I, III","II, IV","mind"],"answer":0},
-
-{"question":"Mi tőkevédelem?","options":["garancia","védelem","hozam","kamat"],"answer":1},
-
-{"question":"Mi hozamgarancia?","options":["I, III","III, IV","I, III, IV","mind"],"answer":2},
-
-{"question":"Mi befektetési alap?","options":["kollektív","bank","biztosító","nem"],"answer":0},
-
-{"question":"Mi befektetési jegy?","options":["részvény","kötvény","alap jegy","nem"],"answer":2},
-
-{"question":"Mi kötvény?","options":["részvény","adósság","jegy","nem"],"answer":1},
-
-{"question":"Mi részvény?","options":["tulajdon","adósság","jegy","nem"],"answer":0},
-
-{"question":"Mi swap?","options":["értékpapír","derivatíva","részvény","nem"],"answer":1},
-
-{"question":"Mi warrant?","options":["opció","részvény","kötvény","nem"],"answer":0},
-
-{"question":"Mi opció?","options":["jog","kötelezettség","kamat","nem"],"answer":0},
-
-{"question":"Mi futures?","options":["határidős","azonnali","kamat","nem"],"answer":0},
-
-{"question":"Mi spot?","options":["azonnali","határidős","swap","nem"],"answer":0},
-
-{"question":"Mi NAV?","options":["nettó eszközérték","adó","ár","nem"],"answer":0},
-
-{"question":"Mi prospectus?","options":["tájékoztató","szerződés","szabály","nem"],"answer":0},
-
-{"question":"Mi tőzsde?","options":["piac","bank","biztosító","nem"],"answer":0},
-
-{"question":"Mi MTF?","options":["multilaterális","bank","biztosító","nem"],"answer":0},
-
-{"question":"Mi OTF?","options":["organised","bank","biztosító","nem"],"answer":0},
-
-{"question":"Mi clearing?","options":["elszámolás","kereskedés","árképzés","nem"],"answer":0},
-
-{"question":"Mi settlement?","options":["teljesítés","elszámolás","árképzés","nem"],"answer":0},
-
-{"question":"Mi margin?","options":["fedezet","kamat","ár","nem"],"answer":0},
-
-{"question":"Mi leverage?","options":["tőkeáttétel","kamat","ár","nem"],"answer":0},
-
-{"question":"Mi liquidity?","options":["likviditás","kamat","ár","nem"],"answer":0},
-
-{"question":"Mi volatility?","options":["volatilitás","kamat","ár","nem"],"answer":0},
-
-{"question":"Mi risk?","options":["kockázat","hozam","ár","nem"],"answer":0},
-
-{"question":"Mi return?","options":["hozam","kockázat","ár","nem"],"answer":0},
-
-{"question":"Mi diversification?","options":["diverzifikáció","kockázat","hozam","nem"],"answer":0},
-
-{"question":"Mi hedge?","options":["fedezés","hozam","kamat","nem"],"answer":0},
-
-{"question":"Mi arbitrage?","options":["árkülönbség","kamat","hozam","nem"],"answer":0},
-
-{"question":"Mi beta?","options":["piaci kockázat","hozam","kamat","nem"],"answer":0},
-
-{"question":"Mi alpha?","options":["többlethozam","kockázat","kamat","nem"],"answer":0},
-
-{"question":"Mi Sharpe?","options":["kockázat/hozam","hozam","kamat","nem"],"answer":0},
-
-{"question":"Mi duration?","options":["kamatérzékenység","hozam","ár","nem"],"answer":0},
-
-{"question":"Mi yield?","options":["hozam","kamat","ár","nem"],"answer":0},
-
-{"question":"Mi coupon?","options":["kamat","hozam","ár","nem"],"answer":0},
-
-{"question":"Mi principal?","options":["tőke","kamat","hozam","nem"],"answer":0},
-
-{"question":"Mi default?","options":["nemfizetés","kamat","hozam","nem"],"answer":0},
-
-{"question":"Mi rating?","options":["minősítés","hozam","kamat","nem"],"answer":0},
-
-{"question":"Mi CDS?","options":["biztosítás","hozam","kamat","nem"],"answer":0},
-
-{"question":"Mi inflation?","options":["infláció","hozam","kamat","nem"],"answer":0},
-
-{"question":"Mi interest?","options":["kamat","hozam","ár","nem"],"answer":0},
-
-{"question":"Mi GDP?","options":["gazdasági teljesítmény","hozam","kamat","nem"],"answer":0},
-
-{"question":"Mi CPI?","options":["infláció","hozam","kamat","nem"],"answer":0},
-
-{"question":"Mi central bank?","options":["jegybank","bank","kormány","nem"],"answer":0},
-
-{"question":"Mi monetary policy?","options":["monetáris politika","fiskális","bank","nem"],"answer":0},
-
-{"question":"Mi fiscal policy?","options":["költségvetés","monetáris","bank","nem"],"answer":0},
-
-{"question":"Mi deficit?","options":["hiány","többlet","hozam","nem"],"answer":0},
-
-{"question":"Mi surplus?","options":["többlet","hiány","hozam","nem"],"answer":0},
-
-{"question":"Mi debt?","options":["adósság","hozam","kamat","nem"],"answer":0},
-
-{"question":"Mi equity?","options":["saját tőke","adósság","kamat","nem"],"answer":0},
-
-{"question":"Mi asset?","options":["eszköz","kamat","hozam","nem"],"answer":0},
-
-{"question":"Mi liability?","options":["kötelezettség","eszköz","hozam","nem"],"answer":0},
-
-{"question":"Mi balance sheet?","options":["mérleg","eredmény","hozam","nem"],"answer":0},
-
-{"question":"Mi income statement?","options":["eredménykimutatás","mérleg","hozam","nem"],"answer":0}
+{
+"question":"Jelölje meg azokat az eseteket, amikor a befektetési szolgáltatást nyújtó köteles megtagadni az ügyféllel való szerződés megkötését vagy az ügyfél megbízásának végrehajtását.\nI. Ha azzal bennfentes kereskedelmet vagy piacbefolyásolást valósítana meg.\nII. Ha a leendő szerződő fél, ügyfél a személyazonosságának igazolását vagy az azonosítást megtagadta, vagy a személyazonosság vagy az azonosítás más okból sikertelen volt.\nIII. Ha a leendő szerződő fél, ügyfél közmegítélése a szolgáltatóra nézve jelentős reputációs kockázatot jelentene.\nIV. Ha az ügyfél befektetési tanácsadási szolgáltatásra szerződne, a szolgáltató azonban az alkalmassági teszthez szükséges információkhoz nem jutott hozzá.",
+"options":[
+"I, II, III és IV",
+"kizárólag I, II, IV",
+"kizárólag I, III",
+"kizárólag I, IV"
+],
+"answer":1,
+"explanation":"Kötelező elutasítás: bennfentes kereskedelem, sikertelen azonosítás, alkalmassági információ hiánya. Reputáció nem kötelező."
+},
+{
+"question":"Mekkora a minimális induló tőke követelménye egy értékpapíralapot kezelő befektetési alapkezelőnek?",
+"options":[
+"5.000.000,- Ft",
+"125.000,- EUR",
+"300.000,- EUR",
+"ÁÉKBV alapkezelő esetén 100.000.000,- Ft, ABAK esetén 500.000.000,- Ft"
+],
+"answer":3,
+"explanation":"A magyar szabályozás külön kezeli az ÁÉKBV és ABAK alapkezelőket."
+},
+{
+"question":"Az alábbiak közül mely állítás igaz a hozamgaranciára?\nI. Csak befektetési alapkezelő vállalhatja.\nII. A portfóliókezelési szerződésben megfelelő befektetési politikával szükséges és elégséges alátámasztani a hozamgarancia vállalását.\nIII. Hitelintézeti garancia vagy biztosítói készfizető kezesség mellett vállalható.\nIV. Kizárólag a portfóliókezelési szolgáltatást nyújtó vagy a befektetési alapkezelő kifejezett vállalása esetén illeti meg az ügyfelet, illetve a befektetőt.",
+"options":[
+"kizárólag I, III",
+"kizárólag III, IV",
+"kizárólag I, III, IV",
+"I, II, III és IV"
+],
+"answer":2,
+"explanation":"III és IV igaz, I is elfogadott, II hibás."
+},
+{
+"question":"Mely szolgáltatás meghatározása az alábbi: „a kollektív befektetési forma számára végzett befektetéskezelési tevékenység, valamint a kollektív befektetési forma létrehozatalához, működtetéséhez kapcsolódó feladatok ellátása”?",
+"options":[
+"Bizalmi vagyonkezelés",
+"Befektetési alapkezelés",
+"Portfóliókezelés",
+"Önkéntes kölcsönös biztosító pénztári és magánnyugdíjpénztári vagyonkezelés"
+],
+"answer":1,
+"explanation":"Ez a befektetési alapkezelés definíciója."
+},
+{
+"question":"Az alábbi szolgáltatások közül melyikre terjed ki a Befektető-védelmi Alap (BEVA) által nyújtott biztosítás?\nI. Értékpapírszámla vezetése\nII. Befektetési alapkezelés\nIII. Portfóliókezelés\nIV. Saját számlás kereskedés pénzügyi eszközre",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III, IV",
+"kizárólag I, III, IV",
+"I, II, III és IV"
+],
+"answer":2,
+"explanation":"Az alapkezelés nem tartozik a BEVA alá."
+},
+{
+"question":"Mely alábbi kötelezettségvállalás lényegét tartalmazza a következő meghatározás: „A befektető számára a befektetés nominális, induló értéke visszafizetésre kerül akkor is, ha a befektetéskezelés eredményeként a befektetési jegy árfolyama a befektetés induláskori értéknél alacsonyabb”?",
+"options":[
+"Tőkevédelem.",
+"Tőkegarancia.",
+"Hozamvédelem.",
+"Hozamgarancia."
+],
+"answer":0,
+"explanation":"A nominális érték visszafizetése tőkevédelem."
+},
+{
+"question":"Mely alábbi szereplő NEM bocsáthat ki befektetési jegyet?\nI. Bizalmi vagyonkezelő\nII. Befektetési alapkezelő\nIII. Befektetési vállalkozás\nIV. Befektetési alap",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
+"answer":2,
+"explanation":"Csak a befektetési alap bocsáthat ki."
+},
+{
+"question":"Az alábbiak közül mely értékpapírokat bocsáthatja ki egy nyilvános értékpapíralap?\nI. Kötvényt\nII. Befektetési jegyet\nIII. Jelzáloglevelet\nIV. Részvényt",
+"options":[
+"kizárólag I és II",
+"kizárólag I, II és III",
+"kizárólag I, II, IV",
+"kizárólag II, III, IV"
+],
+"answer":0,
+"explanation":"Alap befektetési jegyet és kötvényt bocsáthat ki."
+},
+{
+"question":"Mely alábbi tevékenységekhez, illetve szolgáltatáshoz kapcsolódhat tőkevédelem?\nI. Befektetési alapok kezeléséhez\nII. Multilaterális kereskedési rendszer működtetése\nIII. Befektetési tanácsadáshoz\nIV. Portfóliókezeléshez",
+"options":[
+"kizárólag I, III",
+"kizárólag II, III, IV",
+"kizárólag I, IV",
+"I, II, III és IV"
+],
+"answer":2,
+"explanation":"Alapkezelés és portfóliókezelés esetén."
+},
+{
+"question":"Mekkora minimális induló tőkével lehet kizárólag befektetési tanácsadási tevékenységre engedélyt szerezni?",
+"options":[
+"Nincs tőkeminimum követelmény.",
+"50 000 EUR.",
+"75 000 EUR",
+"150 000 EUR"
+],
+"answer":2,
+"explanation":"75 000 EUR."
+},
+{
+"question":"Független alapon befektetési tanácsadást végző szolgáltató elfogadhat-e ösztönzőt a tanácsadással érintett pénzügyi eszköz kibocsátójától?",
+"options":[
+"Kizárólag akkor, ha ennek tényét feltárja az ügyfél előtt.",
+"Nem, semmilyen esetben sem.",
+"Kizárólag a tevékenysége megkezdésétől számított 1 éven belül.",
+"Az ügyfél előzetes írásbeli hozzájárulása esetén igen."
+],
+"answer":1,
+"explanation":"Független tanácsadásnál tilos."
+},
+{
+"question":"Mely alábbi ügylet szünteti meg a szerződést a szerződés megkötésének időpontjára visszaható hatállyal?\nI. Felmondás\nII. Elállás\nIII. Felbontás\nIV. Közös megegyezés",
+"options":[
+"kizárólag I, III",
+"kizárólag II, III",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
+"answer":1,
+"explanation":"Elállás és felbontás visszaható."
+},
+{
+"question":"Válassza ki a tőkepiaci kereskedési helyszíneket a felsorolásból!\nI. Szabályozott piac.\nII. Kereskedelmi bank.\nIII. Multilaterális kereskedési rendszer\nIV. Kriptotőzsde.",
+"options":[
+"kizárólag I, III",
+"kizárólag I, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
+"answer":0,
+"explanation":"Szabályozott piac és MTF."
+},
+{
+"question":"Az alábbiak közül mely tevékenységekre kaphat engedélyt egy befektetési alapkezelő?\nI. Portfóliókezelés\nII. Biztosítás\nIII. Befektetési tanácsadási tevékenység pénzügyi eszközre\nIV. Pénzforgalmi (fizetési) számla vezetés",
+"options":[
+"kizárólag I, III",
+"kizárólag II, IV",
+"kizárólag I, II, IV",
+"I, II, III és IV"
+],
+"answer":0,
+"explanation":"Portfóliókezelés + tanácsadás."
+},
+{
+"question":"A MIFID II által előírt ún. tájékozódási kötelezettség keretében az alábbiak közül melyik felmérést kell elvégezni az ügyfél részére történő portfóliókezelési szolgáltatás nyújtása előtt?",
+"options":[
+"Megfelelési tesztet.",
+"Alkalmassági tesztet.",
+"Megfelelési és alkalmassági tesztet.",
+"Kockázatfeltáró nyilatkozatot."
+],
+"answer":1,
+"explanation":"Portfóliókezelésnél suitability (alkalmassági teszt)."
+}
 ]
