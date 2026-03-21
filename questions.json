@@ -667,10 +667,10 @@
 {
 "question":"Értékpapírnak minősül-e a részvényutalvány?",
 "options":[
-"Igen, bejegyzés után.",
-"Igen, bejegyzésig.",
-"Nem, szándéknyilatkozat.",
-"Nem, de jogokat igazol."
+"a)	Igen, a részvénytársaság cégbírósági bejegyzését követően megtestesíti a részvényesnek az alapszabály aláírásával és a jegyzett tőke meghatározott részének befizetésével kapcsolatos jogait.",
+"b)	Igen, a cégbírósági bejegyzésig megtestesíti a befektetőnek a részvénytársaságban meglévő jogait.",
+"c)	Nem, és jelentősége sincs, a részvényutalvány csupán egy szándéknyilatkozat, amit a majdani befektető tesz még a részvénytársaság alapítását megelőzően.",
+"d)	Nem, a részvényutalvány okirat, amely az ellenkező bizonyításáig igazolja az okiratban meghatározott személynek a részvénytársasággal szemben fennálló jogait és kötelezettségeit."
 ],
 "answer":3,
 "explanation":"Nem értékpapír, hanem igazoló okirat."
