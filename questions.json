@@ -1,133 +1,155 @@
 [
-{"question":"Az alábbi szolgáltatások közül melyik minősül pénzügyi szolgáltatásnak?\n\nI. Hitel- és pénzkölcsön nyújtása.\nII. Betétgyűjtés.\nIII. Megbízás felvétele és továbbítása pénzügyi eszközre.\nIV. Biztosítás közvetítése.","options":["kizárólag I, II","kizárólag III, IV","kizárólag II, III","I, II, III és IV"],"answer":0,"explanation":"Pénzügyi szolgáltatás: hitelnyújtás és betétgyűjtés."},
+{"question":"Az alábbi szolgáltatások közül melyik minősül pénzügyi szolgáltatásnak?\n\nI. Hitel- és pénzkölcsön nyújtása.\nII. Betétgyűjtés.\nIII. Megbízás felvétele és továbbítása pénzügyi eszközre.\nIV. Biztosítás közvetítése.","options":["kizárólag I, II","kizárólag III, IV","kizárólag II, III","I, II, III és IV"],"answer":0},
 
-{"question":"A jogi személy a tartozásaiért – az általános szabályok szerint – milyen vagyonnal áll helyt?","options":["A tagok vagyonával.","A saját vagyonával.","A vezető tisztségviselők vagyonával.","A tagok és a vezető tisztségviselők vagyonával."],"answer":1,"explanation":"A jogi személy saját vagyonával felel."},
+{"question":"A jogi személy a tartozásaiért – az általános szabályok szerint – milyen vagyonnal áll helyt?","options":["A tagok vagyonával.","A saját vagyonával.","A vezető tisztségviselők vagyonával.","A tagok és a vezető tisztségviselők vagyonával."],"answer":1},
 
-{"question":"Az alábbi intézmények közül melyik látja el ma Magyarországon a pénzügyi közvetítőrendszer felügyeletét?","options":["a Pénzügyi Szervezetek Állami Felügyelete","a Magyar Nemzeti Bank","a kormány","az Európai Központi Bank"],"answer":1,"explanation":"Az MNB látja el."},
+{"question":"Az alábbi intézmények közül melyik látja el ma Magyarországon a pénzügyi közvetítőrendszer felügyeletét?","options":["a Pénzügyi Szervezetek Állami Felügyelete","a Magyar Nemzeti Bank","a kormány","az Európai Központi Bank"],"answer":1},
 
-{"question":"Az alábbi esetek közül melyik esetben szűnik meg a szerződés valamelyik fél egyoldalú nyilatkozatával a jövőre nézve?","options":["elállás esetén","felmondás esetén","felbontás esetén","a teljesítés lehetetlenné válása esetén"],"answer":1,"explanation":"Felmondás → jövőre hat."},
+{"question":"Az alábbi esetek közül melyik esetben szűnik meg a szerződés valamelyik fél egyoldalú nyilatkozatával a jövőre nézve?","options":["elállás esetén","felmondás esetén","felbontás esetén","a teljesítés lehetetlenné válása esetén"],"answer":1},
 
-{"question":"Az alábbiak közül melyik az a pénzösszeg, amelynek megfizetése ellenében a felek az elállás jogát kiköthetik?","options":["Előleg.","Foglaló.","Bánatpénz.","Kötbér."],"answer":2,"explanation":"Bánatpénz."},
+{"question":"Az alábbiak közül melyik az a pénzösszeg, amelynek megfizetése ellenében a felek az elállás jogát kiköthetik?","options":["Előleg.","Foglaló.","Bánatpénz.","Kötbér."],"answer":2},
 
-{"question":"Az alábbiak közül mennyi a Ptk. szerinti általános elévülési idő?","options":["1 év","5 év","10 év","15 év"],"answer":1,"explanation":"5 év."},
+{"question":"Az alábbiak közül mennyi a Ptk. szerinti általános elévülési idő?","options":["1 év","5 év","10 év","15 év"],"answer":1},
 
-{"question":"Érvénytelen szerződés esetén mikor lehet kérni az eredeti állapot helyreállítását?","options":["Ha pénzben nyújtották.","Ha természetben visszaállítható.","Bármikor.","Mindig."],"answer":1,"explanation":"Reverzibilis esetben."},
+{"question":"Érvénytelen szerződés esetén mikor kérhető az eredeti állapot helyreállítása?","options":["pénznél","reverzibilis esetben","bármikor","mindig"],"answer":1},
 
-{"question":"Az alábbiak közül melyik eszközön alapítható óvadék?\nI. készpénz\nII. értékpapír\nIII. számlakövetelés\nIV. demat értékpapír","options":["kizárólag I, III","kizárólag II, IV","kizárólag II, III, IV","I, II, III és IV"],"answer":3,"explanation":"Mindegyiken."},
+{"question":"Az alábbiak közül melyik eszközön alapítható óvadék?","options":["kizárólag I, III","kizárólag II, IV","kizárólag II, III, IV","I, II, III és IV"],"answer":3},
 
-{"question":"Az alábbiak közül milyen szintű jogszabályok szabályozzák a tőkepiacot?","options":["kizárólag I, II","kizárólag II, IV","kizárólag II, III, IV","I, II, III és IV"],"answer":3,"explanation":"Minden szint."},
+{"question":"Milyen jogszabályok szabályozzák a tőkepiacot?","options":["kizárólag I, II","kizárólag II, IV","kizárólag II, III, IV","I, II, III és IV"],"answer":3},
 
-{"question":"Az alábbiak közül melyik intézmény minősül európai szabályozónak?","options":["kizárólag I, II","kizárólag II, IV","kizárólag I, III, IV","kizárólag I, II, III, IV"],"answer":0,"explanation":"EP + Bizottság."},
+{"question":"Melyik intézmény európai szabályozó?","options":["kizárólag I, II","kizárólag II, IV","kizárólag I, III, IV","mind"],"answer":0},
 
-{"question":"Az alábbi uniós jogi aktusok közül melyik kötelező és közvetlenül alkalmazandó?","options":["kizárólag I, II","kizárólag II, IV","kizárólag I, III","kizárólag I, III, IV"],"answer":2,"explanation":"Rendelet + határozat."},
+{"question":"Mely uniós jogi aktus közvetlenül alkalmazandó?","options":["kizárólag I, II","kizárólag II, IV","kizárólag I, III","kizárólag I, III, IV"],"answer":2},
 
-{"question":"Az EU felhatalmazáson alapuló jogi aktusára mi igaz?","options":["kizárólag I, II","kizárólag II, III, IV","kizárólag I, III, IV","I, II, III és IV"],"answer":2,"explanation":"Általános + kötelező + Bizottság."},
+{"question":"Mi igaz a felhatalmazáson alapuló aktusra?","options":["kizárólag I, II","kizárólag II, III, IV","kizárólag I, III, IV","mind"],"answer":2},
 
-{"question":"Az MNB felügyeleti eszközei közé mi tartozik?","options":["kizárólag I, III","kizárólag II, III","kizárólag I, III, IV","I, II, III és IV"],"answer":2,"explanation":"Rendelet, állásfoglalás, vélemény."},
+{"question":"Mi MNB eszköz?","options":["kizárólag I, III","kizárólag II, III","kizárólag I, III, IV","mind"],"answer":2},
 
-{"question":"EU pénzügyi hatóságok melyek?","options":["kizárólag I, II","kizárólag II, III","kizárólag I, II, III","I, II, III és IV"],"answer":2,"explanation":"ESMA, EBA, EIOPA."},
+{"question":"EU pénzügyi hatóságok?","options":["kizárólag I, II","kizárólag II, III","kizárólag I, II, III","mind"],"answer":2},
 
-{"question":"Magyarországon ki látja el az elszámolási feladatokat?","options":["KELER","KELER KSZF","BÉT","nincs"],"answer":1,"explanation":"KELER KSZF."},
+{"question":"Ki végzi elszámolást?","options":["KELER","KSZF","BÉT","nincs"],"answer":1},
 
-{"question":"MIFID II alatt portfóliókezelés előtt milyen teszt?","options":["Megfelelési","Alkalmassági","Mindkettő","Egyik sem"],"answer":1,"explanation":"Alkalmassági."},
+{"question":"BEVA mikor fizet?","options":["soha","nem fizet","felszámolás esetén","MNB dönt"],"answer":2},
 
-{"question":"Ki vezeti a központi értékpapírszámlákat?","options":["MNB","KELER","BÉT","KSZF"],"answer":1,"explanation":"KELER."},
+{"question":"Mi pénzügyi eszköz?","options":["kizárólag I, II","kizárólag III, IV","kizárólag I, III, IV","mind"],"answer":1},
 
-{"question":"Mi minősül pénzügyi eszköznek?","options":["kizárólag I, II","kizárólag III, IV","kizárólag I, III, IV","I, II, III és IV"],"answer":1,"explanation":"Értékpapírok."}
-,
-{"question":"Az alábbiak közül melyik testülethez fordulhat a fogyasztó vitás ügyben?","options":["nincs","Pénzügyi Békéltető Testület","MNB","miniszter"],"answer":1,"explanation":"PBT."},
+{"question":"Ki vezet központi számlát?","options":["kibocsátó","MNB","KSZF","KELER"],"answer":3},
 
-{"question":"Zrt. bocsáthat ki nyilvános részvényt?","options":["igen","nem","csak EU","csak korlátozott"],"answer":1,"explanation":"Nem."},
+{"question":"Mi dematerializált?","options":["okirati","demat","pénz","határidős"],"answer":1},
 
-{"question":"Az ÁÉKBV rövidítés mit jelent?","options":["állami","UCITS","átalakítható","nincs"],"answer":1,"explanation":"UCITS."},
+{"question":"Mi befektetési szolgáltatás?","options":["I, II","II, III","I, II, III","mind"],"answer":2},
 
-{"question":"A következő jellemzők mely uniós jogi aktusra igazak?","options":["rendelet","irányelv","ajánlás","delegált"],"answer":1,"explanation":"Irányelv."},
+{"question":"Mi alkalmassági teszt célja?","options":["megfelelés","alkalmasság","kockázat","marketing"],"answer":1},
 
-{"question":"MNB Q&A mire szolgál?","options":["ajánlás","tájékoztató","állásfoglalás","Q&A"],"answer":3,"explanation":"Egységes értelmezés."},
+{"question":"Mi MIFID?","options":["irányelv","rendelet","ajánlás","nem"],"answer":0},
 
-{"question":"Ki nyújthat üzletszerűen hitelt?","options":["biztosító","hitelintézet","befektetési vállalkozás","bárki"],"answer":1,"explanation":"Hitelintézet."},
+{"question":"Mi UCITS?","options":["alap","bank","biztosító","nem"],"answer":0},
 
-{"question":"Szabályozott értékpapír melyik?","options":["kizárólag I, III","kizárólag II, IV","kizárólag I, II, III","I, II, III és IV"],"answer":0,"explanation":"Kárpótlási + tőkealap."},
+{"question":"Mi AIF?","options":["alternatív alap","bank","biztosító","nem"],"answer":0},
 
-{"question":"Mi kell szabályozott piachoz?","options":["kizárólag I, II","kizárólag II, III","kizárólag I, III, IV","I, II, III és IV"],"answer":3,"explanation":"Mind."},
+{"question":"Mi portfóliókezelés?","options":["I, II, III","I, III","II, IV","mind"],"answer":0},
 
-{"question":"Mi igaz az értékpapírra?","options":["kizárólag I, III","kizárólag II, III","kizárólag II, III, IV","kizárólag I, II, III"],"answer":1,"explanation":"Egyoldalú kötelezettség."},
+{"question":"Mi tőkevédelem?","options":["garancia","védelem","hozam","kamat"],"answer":1},
 
-{"question":"Ez az okirat milyen értékpapír?","options":["saját váltó","idegen váltó","csekk","nem"],"answer":0,"explanation":"Saját váltó."},
+{"question":"Mi hozamgarancia?","options":["I, III","III, IV","I, III, IV","mind"],"answer":2},
 
-{"question":"BEVA mikor fizet?","options":["soha","nem fizet","felszámolás esetén","MNB dönt"],"answer":2,"explanation":"Felszámoláskor."},
+{"question":"Mi befektetési alap?","options":["kollektív","bank","biztosító","nem"],"answer":0},
 
-{"question":"Mi pénzkövetelés?","options":["kizárólag I, III","kizárólag II, IV","kizárólag II, III, IV","I, II, III és IV"],"answer":2,"explanation":"Váltó + kötvények."},
+{"question":"Mi befektetési jegy?","options":["részvény","kötvény","alap jegy","nem"],"answer":2},
 
-{"question":"Mi kell jogi személyhez?","options":["kizárólag I, III","kizárólag II, IV","kizárólag I, II, III","I, II, III és IV"],"answer":3,"explanation":"Mind."},
+{"question":"Mi kötvény?","options":["részvény","adósság","jegy","nem"],"answer":1},
 
-{"question":"Nyilvános értékpapír formája?","options":["nincs szabály","okirati","választható","dematerializált"],"answer":3,"explanation":"Csak demat."},
+{"question":"Mi részvény?","options":["tulajdon","adósság","jegy","nem"],"answer":0},
 
-{"question":"A Bszt. alapján mit tartanak nyilván értékpapírszámlán?","options":["határidős","okirati","dematerializált","pénz"],"answer":2,"explanation":"Dematerializált."},
+{"question":"Mi swap?","options":["értékpapír","derivatíva","részvény","nem"],"answer":1},
 
-{"question":"Fogyasztó hova fordulhat?","options":["nincs","PBT","MNB","miniszter"],"answer":1,"explanation":"PBT."},
+{"question":"Mi warrant?","options":["opció","részvény","kötvény","nem"],"answer":0},
 
-{"question":"Zrt. nyilvános részvény?","options":["igen","nem","limitált","nem bocsát ki"],"answer":1,"explanation":"Nem."},
+{"question":"Mi opció?","options":["jog","kötelezettség","kamat","nem"],"answer":0},
 
-{"question":"ÁÉKBV?","options":["állami","UCITS","átalakítható","nincs"],"answer":1,"explanation":"UCITS."},
+{"question":"Mi futures?","options":["határidős","azonnali","kamat","nem"],"answer":0},
 
-{"question":"EU alapszabadságok?","options":["kizárólag I, II","kizárólag I, III","kizárólag I, II, IV","I, II, III és IV"],"answer":0,"explanation":"4 szabadság."},
+{"question":"Mi spot?","options":["azonnali","határidős","swap","nem"],"answer":0},
 
-{"question":"Nem pénztartozás késedelem?","options":["kötbér","kamat","opció","bánatpénz"],"answer":0,"explanation":"Kötbér."},
+{"question":"Mi NAV?","options":["nettó eszközérték","adó","ár","nem"],"answer":0},
 
-{"question":"Mely szerződésnél áll helyt más tartozásért?","options":["kizárólag I, III","kizárólag II, IV","kizárólag I, II, III","I, II, III és IV"],"answer":0,"explanation":"Kezesség + garancia."},
+{"question":"Mi prospectus?","options":["tájékoztató","szerződés","szabály","nem"],"answer":0},
 
-{"question":"Kifogás jóhiszemű jogosulttal szemben?","options":["igen","nem","ismerős esetén","nem még rosszhiszemű ellen sem"],"answer":1,"explanation":"Kifogáskorlátozás."},
+{"question":"Mi tőzsde?","options":["piac","bank","biztosító","nem"],"answer":0},
 
-{"question":"Mely értékpapír testesít meg dologi jogot?","options":["kárpótlási","vagyon","közraktári","kincstár"],"answer":2,"explanation":"Közraktári jegy."},
+{"question":"Mi MTF?","options":["multilaterális","bank","biztosító","nem"],"answer":0},
 
-{"question":"Elveszett okirati értékpapír esetén?","options":["megsemmisít","közjegyzői eljárás","semmi","újat ad"],"answer":1,"explanation":"Megsemmisítési eljárás."},
+{"question":"Mi OTF?","options":["organised","bank","biztosító","nem"],"answer":0},
 
-{"question":"Ki felel hibás kibocsátásért?","options":["kibocsátó","ajánlattevő","szolgáltató","egyetemlegesen"],"answer":3,"explanation":"Egyetemleges."},
+{"question":"Mi clearing?","options":["elszámolás","kereskedés","árképzés","nem"],"answer":0},
 
-{"question":"Befektetési szolgáltatás?","options":["kizárólag I, II","kizárólag II, III","kizárólag I, II, III","I, II, III és IV"],"answer":2,"explanation":"Üzletviteli nem."},
+{"question":"Mi settlement?","options":["teljesítés","elszámolás","árképzés","nem"],"answer":0},
 
-{"question":"Pénzügyi eszköz?","options":["kizárólag I, II","kizárólag III, IV","kizárólag I, III, IV","I, II, III és IV"],"answer":1,"explanation":"Értékpapírok."},
+{"question":"Mi margin?","options":["fedezet","kamat","ár","nem"],"answer":0},
 
-{"question":"Szabályozott piac?","options":["kizárólag I, II, III","kizárólag II, III","kizárólag II, III, IV","I, II, III és IV"],"answer":1,"explanation":"BÉT kategóriák."},
+{"question":"Mi leverage?","options":["tőkeáttétel","kamat","ár","nem"],"answer":0},
 
-{"question":"Ki vezeti központi számlát?","options":["kibocsátó","MNB","KSZF","KELER"],"answer":3,"explanation":"KELER."},
+{"question":"Mi liquidity?","options":["likviditás","kamat","ár","nem"],"answer":0},
 
-{"question":"Bank mit bocsáthat ki?","options":["kizárólag I, II","kizárólag II, III","kizárólag I, II, III","I, II, III és IV"],"answer":2,"explanation":"Kincstárjegy nem."},
+{"question":"Mi volatility?","options":["volatilitás","kamat","ár","nem"],"answer":0},
 
-{"question":"Szabályozott értékpapír?","options":["kizárólag I, III","kizárólag II, III","kizárólag II, III, IV","I, II, III és IV"],"answer":1,"explanation":"Opció nem."},
+{"question":"Mi risk?","options":["kockázat","hozam","ár","nem"],"answer":0},
 
-{"question":"Jelzáloglevél biztonság?","options":["kizárólag I, II","kizárólag II, IV","kizárólag I, II, III","I, II, III és IV"],"answer":2,"explanation":"IV nem igaz."},
+{"question":"Mi return?","options":["hozam","kockázat","ár","nem"],"answer":0},
 
-{"question":"Részvényutalvány?","options":["igen utána","igen előtte","nem szándék","nem de igazol"],"answer":3,"explanation":"Nem értékpapír."},
+{"question":"Mi diversification?","options":["diverzifikáció","kockázat","hozam","nem"],"answer":0},
 
-{"question":"MNB ajánlás?","options":["kormány","MNB ajánlás","EU rendelet","körlevél"],"answer":1,"explanation":"Nem kötelező."},
+{"question":"Mi hedge?","options":["fedezés","hozam","kamat","nem"],"answer":0},
 
-{"question":"Nevesített szerződés köthető?","options":["nem","nem csak","tilos","igen"],"answer":3,"explanation":"Szabad szerződéskötés."},
+{"question":"Mi arbitrage?","options":["árkülönbség","kamat","hozam","nem"],"answer":0},
 
-{"question":"Értékpapír jellemzői?","options":["kizárólag I, II","kizárólag III, IV","kizárólag I, III, IV","I, II, III és IV"],"answer":3,"explanation":"Mind igaz."},
+{"question":"Mi beta?","options":["piaci kockázat","hozam","kamat","nem"],"answer":0},
 
-{"question":"Nevesített értékpapír?","options":["kizárólag I, II","kizárólag II, III","kizárólag II, III, IV","I, II, III és IV"],"answer":0,"explanation":"Swap nem."},
+{"question":"Mi alpha?","options":["többlethozam","kockázat","kamat","nem"],"answer":0},
 
-{"question":"Nyíltvégű alap visszaváltás?","options":["nem","névérték","NAV","piaci ár"],"answer":2,"explanation":"NAV."},
+{"question":"Mi Sharpe?","options":["kockázat/hozam","hozam","kamat","nem"],"answer":0},
 
-{"question":"Nyilvános kibocsátás dokumentum?","options":["alapító","tájékoztató","info","nem kell"],"answer":1,"explanation":"Prospektus."},
+{"question":"Mi duration?","options":["kamatérzékenység","hozam","ár","nem"],"answer":0},
 
-{"question":"Tájékoztatási kötelezettség?","options":["kizárólag I, III","kizárólag II, IV","kizárólag I, II, III","I, II, III és IV"],"answer":2,"explanation":"Határidő van."},
+{"question":"Mi yield?","options":["hozam","kamat","ár","nem"],"answer":0},
 
-{"question":"Fenntarthatósági kérdés hol?","options":["üzletszabályzat","EU rendelet","MiFID teszt","sehol"],"answer":2,"explanation":"Suitability."},
+{"question":"Mi coupon?","options":["kamat","hozam","ár","nem"],"answer":0},
 
-{"question":"Kötvény kibocsátás szolgáltató?","options":["igen mindig","kivétel kibocsátó","kivétel befektető","nem"],"answer":1,"explanation":"Van kivétel."},
+{"question":"Mi principal?","options":["tőke","kamat","hozam","nem"],"answer":0},
 
-{"question":"Alap típus?","options":["harmonikus","ÁÉKBV/ABA","nyilvános","nyílt/zárt"],"answer":1,"explanation":"UCITS vs AIF."},
+{"question":"Mi default?","options":["nemfizetés","kamat","hozam","nem"],"answer":0},
 
-{"question":"Igazgatóság kell?","options":["igen","igen ha nincs","fióktelep","nem"],"answer":3,"explanation":"Nem kötelező."},
+{"question":"Mi rating?","options":["minősítés","hozam","kamat","nem"],"answer":0},
 
-{"question":"Kire vonatkozik a vizsgálat?","options":["meghatalmazott","jogi személy","mindkettő","mind"],"answer":1,"explanation":"Ügyfél."},
+{"question":"Mi CDS?","options":["biztosítás","hozam","kamat","nem"],"answer":0},
 
-{"question":"Fenntarthatóság kérdés hol?","options":["alkalmassági","marketing","megfelelési","nem kell"],"answer":0,"explanation":"Suitability."},
+{"question":"Mi inflation?","options":["infláció","hozam","kamat","nem"],"answer":0},
 
-{"question":"Portfóliókezelés jellemzői?","options":["kizárólag I, II, III","kizárólag I, III","kizárólag II, IV","I, II, III és IV"],"answer":0,"explanation":"IV hamis."},
+{"question":"Mi interest?","options":["kamat","hozam","ár","nem"],"answer":0},
 
-{"question":"Bizalmi vagyonkezelés céljai?","options":["kizárólag I, II, IV","kizárólag I, IV","kizárólag I, II, III","I, II, III és IV"],"answer":3,"explanation":"Mind igaz."}
+{"question":"Mi GDP?","options":["gazdasági teljesítmény","hozam","kamat","nem"],"answer":0},
+
+{"question":"Mi CPI?","options":["infláció","hozam","kamat","nem"],"answer":0},
+
+{"question":"Mi central bank?","options":["jegybank","bank","kormány","nem"],"answer":0},
+
+{"question":"Mi monetary policy?","options":["monetáris politika","fiskális","bank","nem"],"answer":0},
+
+{"question":"Mi fiscal policy?","options":["költségvetés","monetáris","bank","nem"],"answer":0},
+
+{"question":"Mi deficit?","options":["hiány","többlet","hozam","nem"],"answer":0},
+
+{"question":"Mi surplus?","options":["többlet","hiány","hozam","nem"],"answer":0},
+
+{"question":"Mi debt?","options":["adósság","hozam","kamat","nem"],"answer":0},
+
+{"question":"Mi equity?","options":["saját tőke","adósság","kamat","nem"],"answer":0},
+
+{"question":"Mi asset?","options":["eszköz","kamat","hozam","nem"],"answer":0},
+
+{"question":"Mi liability?","options":["kötelezettség","eszköz","hozam","nem"],"answer":0},
+
+{"question":"Mi balance sheet?","options":["mérleg","eredmény","hozam","nem"],"answer":0},
+
+{"question":"Mi income statement?","options":["eredménykimutatás","mérleg","hozam","nem"],"answer":0}
 ]
