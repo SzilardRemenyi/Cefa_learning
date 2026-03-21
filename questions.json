@@ -178,366 +178,997 @@
 ],
 "answer":1
 },
-
 {
-"question":"Jelölje meg azokat az eseteket, amikor a befektetési szolgáltatást nyújtó köteles megtagadni az ügyféllel való szerződés megkötését vagy az ügyfél megbízásának végrehajtását.\n\nI. Ha azzal bennfentes kereskedelmet vagy piacbefolyásolást valósítana meg.\nII. Ha az ügyfél azonosítása sikertelen.\nIII. Ha reputációs kockázatot jelent.\nIV. Ha nincs elegendő információ alkalmassági teszthez.",
-"options":["I, II, III és IV","kizárólag I, II, IV","kizárólag I, III","kizárólag I, IV"],
+"question":"Jelölje meg azokat az eseteket, amikor a befektetési szolgáltatást nyújtó köteles megtagadni az ügyféllel való szerződés megkötését vagy az ügyfél megbízásának végrehajtását.\nI. Ha azzal bennfentes kereskedelmet vagy piacbefolyásolást valósítana meg.\nII. Ha a leendő szerződő fél, ügyfél a személyazonosságának igazolását vagy az azonosítást megtagadta, vagy a személyazonosság vagy az azonosítás más okból sikertelen volt.\nIII. Ha a leendő szerződő fél, ügyfél közmegítélése a szolgáltatóra nézve jelentős reputációs kockázatot jelentene.\nIV. Ha az ügyfél befektetési tanácsadási szolgáltatásra szerződne, a szolgáltató azonban az alkalmassági teszthez szükséges információkhoz nem jutott hozzá.",
+"options":[
+"I, II, III és IV",
+"kizárólag I, II, IV",
+"kizárólag I, III",
+"kizárólag I, IV"
+],
 "answer":1,
-"explanation":"Reputáció nem kötelező elutasítási ok, a többi igen."
+"explanation":"Kötelező elutasítás: bennfentes kereskedelem, sikertelen azonosítás, alkalmassági információ hiánya. Reputáció nem kötelező."
 },
 {
 "question":"Mekkora a minimális induló tőke követelménye egy értékpapíralapot kezelő befektetési alapkezelőnek?",
-"options":["5.000.000 Ft","125.000 EUR","300.000 EUR","ÁÉKBV 100M Ft, ABAK 500M Ft"],
+"options":[
+"5.000.000,- Ft",
+"125.000,- EUR",
+"300.000,- EUR",
+"ÁÉKBV alapkezelő esetén 100.000.000,- Ft, ABAK esetén 500.000.000,- Ft"
+],
 "answer":3,
-"explanation":"Két külön szabályozás: UCITS vs AIFM."
+"explanation":"A magyar szabályozás külön kezeli az ÁÉKBV és ABAK alapkezelőket."
 },
 {
-"question":"Az alábbiak közül mely állítás igaz a hozamgaranciára?",
-"options":["kizárólag I, III","kizárólag III, IV","kizárólag I, III, IV","I, II, III és IV"],
+"question":"Az alábbiak közül mely állítás igaz a hozamgaranciára?\nI. Csak befektetési alapkezelő vállalhatja.\nII. A portfóliókezelési szerződésben megfelelő befektetési politikával szükséges és elégséges alátámasztani a hozamgarancia vállalását.\nIII. Hitelintézeti garancia vagy biztosítói készfizető kezesség mellett vállalható.\nIV. Kizárólag a portfóliókezelési szolgáltatást nyújtó vagy a befektetési alapkezelő kifejezett vállalása esetén illeti meg az ügyfelet, illetve a befektetőt.",
+"options":[
+"kizárólag I, III",
+"kizárólag III, IV",
+"kizárólag I, III, IV",
+"I, II, III és IV"
+],
 "answer":2,
-"explanation":"Nem elég befektetési politika, garancia kell."
+"explanation":"III és IV igaz, I is elfogadott, II hibás."
 },
 {
-"question":"Mely szolgáltatás meghatározása az alábbi: kollektív befektetési forma számára végzett befektetéskezelés?",
-"options":["Bizalmi vagyonkezelés","Befektetési alapkezelés","Portfóliókezelés","Nyugdíj vagyonkezelés"],
+"question":"Mely szolgáltatás meghatározása az alábbi: „a kollektív befektetési forma számára végzett befektetéskezelési tevékenység, valamint a kollektív befektetési forma létrehozatalához, működtetéséhez kapcsolódó feladatok ellátása”?",
+"options":[
+"Bizalmi vagyonkezelés",
+"Befektetési alapkezelés",
+"Portfóliókezelés",
+"Önkéntes kölcsönös biztosító pénztári és magánnyugdíjpénztári vagyonkezelés"
+],
 "answer":1,
 "explanation":"Ez a befektetési alapkezelés definíciója."
 },
 {
-"question":"Mely szolgáltatásokra terjed ki a BEVA?",
-"options":["I, II","II, III, IV","I, III, IV","I, II, III és IV"],
+"question":"Az alábbi szolgáltatások közül melyikre terjed ki a Befektető-védelmi Alap (BEVA) által nyújtott biztosítás?\nI. Értékpapírszámla vezetése\nII. Befektetési alapkezelés\nIII. Portfóliókezelés\nIV. Saját számlás kereskedés pénzügyi eszközre",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III, IV",
+"kizárólag I, III, IV",
+"I, II, III és IV"
+],
 "answer":2,
-"explanation":"Alapkezelés nem tartozik ide."
+"explanation":"Az alapkezelés nem tartozik a BEVA alá."
 },
 {
-"question":"Mi a tőkevédelem?",
-"options":["Tőkevédelem","Tőkegarancia","Hozamvédelem","Hozamgarancia"],
+"question":"Mely alábbi kötelezettségvállalás lényegét tartalmazza a következő meghatározás: „A befektető számára a befektetés nominális, induló értéke visszafizetésre kerül akkor is, ha a befektetéskezelés eredményeként a befektetési jegy árfolyama a befektetés induláskori értéknél alacsonyabb”?",
+"options":[
+"Tőkevédelem.",
+"Tőkegarancia.",
+"Hozamvédelem.",
+"Hozamgarancia."
+],
 "answer":0,
-"explanation":"Nominális érték visszafizetés."
+"explanation":"A nominális érték visszafizetése tőkevédelem."
 },
 {
-"question":"Ki NEM bocsáthat ki befektetési jegyet?",
-"options":["I, II","II, III","I, II, III","I, II, III és IV"],
+"question":"Mely alábbi szereplő NEM bocsáthat ki befektetési jegyet?\nI. Bizalmi vagyonkezelő\nII. Befektetési alapkezelő\nIII. Befektetési vállalkozás\nIV. Befektetési alap",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
 "answer":2,
-"explanation":"Csak befektetési alap bocsát ki."
+"explanation":"Csak a befektetési alap bocsáthat ki."
 },
 {
-"question":"Mely értékpapírokat bocsáthatja ki egy nyilvános alap?",
-"options":["I és II","I, II, III","I, II, IV","II, III, IV"],
+"question":"Az alábbiak közül mely értékpapírokat bocsáthatja ki egy nyilvános értékpapíralap?\nI. Kötvényt\nII. Befektetési jegyet\nIII. Jelzáloglevelet\nIV. Részvényt",
+"options":[
+"kizárólag I és II",
+"kizárólag I, II és III",
+"kizárólag I, II, IV",
+"kizárólag II, III, IV"
+],
 "answer":0,
-"explanation":"Befektetési jegy + kötvény."
+"explanation":"Alap befektetési jegyet és kötvényt bocsáthat ki."
 },
 {
-"question":"Mely tevékenységekhez kapcsolódhat tőkevédelem?",
-"options":["I, III","II, III, IV","I, IV","I, II, III és IV"],
+"question":"Mely alábbi tevékenységekhez, illetve szolgáltatáshoz kapcsolódhat tőkevédelem?\nI. Befektetési alapok kezeléséhez\nII. Multilaterális kereskedési rendszer működtetése\nIII. Befektetési tanácsadáshoz\nIV. Portfóliókezeléshez",
+"options":[
+"kizárólag I, III",
+"kizárólag II, III, IV",
+"kizárólag I, IV",
+"I, II, III és IV"
+],
 "answer":2,
-"explanation":"Alap és portfóliókezelés."
+"explanation":"Alapkezelés és portfóliókezelés esetén."
 },
 {
-"question":"Minimális tőke befektetési tanácsadásra?",
-"options":["nincs","50k EUR","75k EUR","150k EUR"],
+"question":"Mekkora minimális induló tőkével lehet kizárólag befektetési tanácsadási tevékenységre engedélyt szerezni?",
+"options":[
+"Nincs tőkeminimum követelmény.",
+"50 000 EUR.",
+"75 000 EUR",
+"150 000 EUR"
+],
 "answer":2,
-"explanation":"75.000 EUR."
+"explanation":"75 000 EUR."
 },
 {
-"question":"Független tanácsadó elfogadhat ösztönzőt?",
-"options":["igen ha jelzi","nem","1 évig igen","igen írásban"],
+"question":"Független alapon befektetési tanácsadást végző szolgáltató elfogadhat-e ösztönzőt a tanácsadással érintett pénzügyi eszköz kibocsátójától?",
+"options":[
+"Kizárólag akkor, ha ennek tényét feltárja az ügyfél előtt.",
+"Nem, semmilyen esetben sem.",
+"Kizárólag a tevékenysége megkezdésétől számított 1 éven belül.",
+"Az ügyfél előzetes írásbeli hozzájárulása esetén igen."
+],
 "answer":1,
-"explanation":"Független = nem fogadhat el."
+"explanation":"Független tanácsadásnál tilos."
 },
 {
-"question":"Mely ügylet szünteti meg visszamenőlegesen a szerződést?",
-"options":["I, III","II, III","I, II, III","I, II, III és IV"],
+"question":"Mely alábbi ügylet szünteti meg a szerződést a szerződés megkötésének időpontjára visszaható hatállyal?\nI. Felmondás\nII. Elállás\nIII. Felbontás\nIV. Közös megegyezés",
+"options":[
+"kizárólag I, III",
+"kizárólag II, III",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
 "answer":1,
-"explanation":"Elállás és felbontás."
+"explanation":"Elállás és felbontás visszaható."
 },
 {
-"question":"Melyek kereskedési helyszínek?",
-"options":["I, III","I, IV","I, II, III","I, II, III és IV"],
+"question":"Válassza ki a tőkepiaci kereskedési helyszíneket a felsorolásból!\nI. Szabályozott piac.\nII. Kereskedelmi bank.\nIII. Multilaterális kereskedési rendszer\nIV. Kriptotőzsde.",
+"options":[
+"kizárólag I, III",
+"kizárólag I, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
 "answer":0,
-"explanation":"Szabályozott piac + MTF."
+"explanation":"Szabályozott piac és MTF."
 },
 {
-"question":"Mely tevékenységekre kaphat engedélyt alapkezelő?",
-"options":["I, III","II, IV","I, II, IV","I, II, III és IV"],
+"question":"Az alábbiak közül mely tevékenységekre kaphat engedélyt egy befektetési alapkezelő?\nI. Portfóliókezelés\nII. Biztosítás\nIII. Befektetési tanácsadási tevékenység pénzügyi eszközre\nIV. Pénzforgalmi (fizetési) számla vezetés",
+"options":[
+"kizárólag I, III",
+"kizárólag II, IV",
+"kizárólag I, II, IV",
+"I, II, III és IV"
+],
 "answer":0,
-"explanation":"Portfólió + tanácsadás."
+"explanation":"Portfóliókezelés + tanácsadás."
 },
 {
-"question":"Mely teszt kell portfóliókezeléshez?",
-"options":["Megfelelési","Alkalmassági","Mindkettő","Nyilatkozat"],
+"question":"A MIFID II által előírt ún. tájékozódási kötelezettség keretében az alábbiak közül melyik felmérést kell elvégezni az ügyfél részére történő portfóliókezelési szolgáltatás nyújtása előtt?",
+"options":[
+"Megfelelési tesztet.",
+"Alkalmassági tesztet.",
+"Megfelelési és alkalmassági tesztet.",
+"Kockázatfeltáró nyilatkozatot."
+],
 "answer":1,
-"explanation":"Suitability kötelező."
+"explanation":"Portfóliókezelésnél suitability (alkalmassági teszt)."
 },
 {
 "question":"A következő jellemzők az Európai Unió másodlagos jogának melyik aktusára jellemzők: az elérendő célokat tekintve kötelező a címzett tagállam számára, azonban a célkitűzések megvalósításának formáját és eszközeit a tagállamok választhatják meg, és a nemzeti jogalkotónak átültető jogszabályt kell elfogadnia, nem alkalmazandó közvetlenül?",
-"options":["az uniós rendelet","az uniós irányelv","az uniós ajánlás","a felhatalmazáson alapuló jogi aktus"],
+"options":[
+"az uniós rendelet",
+"az uniós irányelv",
+"az uniós ajánlás",
+"a felhatalmazáson alapuló jogi aktus"
+],
 "answer":1,
 "explanation":"Az irányelv kötelező a célra, de nem közvetlenül alkalmazandó, átültetést igényel."
 },
 {
 "question":"Az alábbiak közül a Magyar Nemzeti Bank melyik felügyeleti szabályozó eszköze az, amely az egységes jogalkalmazás elősegítése érdekében a CRD/CRR illetve a MiFID/MiFIR hazai alkalmazásához kapcsolódó, a beérkezett kérdésekre adott válaszokat tartalmazza szerkesztett formában?",
-"options":["Ajánlás.","Tájékoztató.","Állásfoglalás.","Kérdések és válaszok (Q&A)."],
+"options":[
+"Ajánlás.",
+"Tájékoztató.",
+"Állásfoglalás.",
+"Kérdések és válaszok (Q&A)."
+],
 "answer":3,
-"explanation":"A Q&A az egységes értelmezést segíti."
+"explanation":"A Q&A a gyakorlatban felmerülő kérdések egységes értelmezését segíti."
 },
 {
 "question":"Az alábbi piaci szereplők közül melyik jogosult üzletszerűen és üzletági korlátozás nélkül hitelt (pénzkölcsönt) nyújtani az ügyfeleinek?",
-"options":["a biztosítók","a hitelintézetek","a befektetési vállalkozások","bárki"],
+"options":[
+"a biztosítók",
+"a hitelintézetek",
+"a befektetési vállalkozások",
+"bárki"
+],
 "answer":1,
-"explanation":"Csak hitelintézetek jogosultak."
+"explanation":"Csak hitelintézet nyújthat ilyen módon hitelt."
 },
 {
-"question":"Az alábbi eszközök közül a hatályos magyar szabályozás alapján melyik minősül szabályozott értékpapírnak?\n\nI. a kárpótlási jegy \nII. a váltó\nIII. a tőkealap-jegy\nIV. a csekk",
-"options":["kizárólag I, III","kizárólag II, IV","kizárólag I, II, III","I, II, III és IV"],
+"question":"Az alábbi eszközök közül a hatályos magyar szabályozás alapján melyik minősül szabályozott értékpapírnak?\nI. a kárpótlási jegy \nII. a váltó\nIII. a tőkealap-jegy\nIV. a csekk",
+"options":[
+"kizárólag I, III",
+"kizárólag II, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
 "answer":0,
-"explanation":"Kárpótlási jegy és tőkealap-jegy tartozik ide."
+"explanation":"A kárpótlási jegy és a tőkealap-jegy minősül szabályozott értékpapírnak."
 },
 {
-"question":"Az alábbiak közül melyik feltételnek kell megfelelnie az ún. szabályozott piacnak?\n\nI. Multilaterális rendszer\nII. Több fél összehozása\nIII. Felügyeleti engedély\nIV. EU listán szerepel",
-"options":["kizárólag I, II","kizárólag II, III","kizárólag I, III, IV","I, II, III és IV"],
+"question":"Az alábbiak közül melyik feltételnek kell megfelelnie az ún. szabályozott piacnak?\nI. Piacműködtető által működtetett multilaterális rendszer.\nII. Megkülönböztetésmentesen hozza össze több harmadik fél vételi és eladási szándékát.\nIII. A székhely szerinti tagállam felügyeleti hatóságának engedélyével rendelkezik.\nIV. Szerepel az Európai Bizottság honlapján közzétett jegyzékben.",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III",
+"kizárólag I, III, IV",
+"I, II, III és IV"
+],
 "answer":3,
-"explanation":"Mind a négy feltétel szükséges."
+"explanation":"Mind a négy feltétel szükséges a szabályozott piac státuszhoz."
 },
 {
-"question":"Az alábbi megállapítások közül melyik IGAZ az értékpapírok Ptk. szerinti fogalmára?",
-"options":["kizárólag I, III","kizárólag II, III","kizárólag II, III, IV","kizárólag I, II, III"],
+"question":"Az alábbi megállapítások közül melyik IGAZ az értékpapírok Ptk. (2013. évi V. törvény a Polgári Törvénykönyvről) szerinti fogalmára?\nI. Értékpapír kizárólag névre szóló lehet.\nII. Az értékpapír egyoldalú kötelezettségvállalás.\nIII. Az értékpapírokra az alaki igazoló hatás (alaki legitimáció) jellemző.\nIV. Értékpapír kizárólag pénzkövetelésről állítható ki.",
+"options":[
+"kizárólag I, III",
+"kizárólag II, III",
+"kizárólag II, III, IV",
+"kizárólag I, II, III"
+],
 "answer":1,
-"explanation":"Egyoldalú kötelezettség és alaki legitimáció jellemző."
+"explanation":"Az értékpapír egyoldalú kötelezettségvállalás, és alaki legitimáció jellemzi."
 },
 {
-"question":"Értékpapírnak minősül-e a következő tartalmú okirat: \"Fizetek ...\"",
-"options":["igen, saját váltó","igen, idegen váltó","igen, csekk","nem"],
+"question":"Értékpapírnak minősül-e a következő tartalmú okirat: „Fizetek a Bankárképző Zrt.-nek 150.000 Ft-ot 2025. november 17-én Budapesten a Szalag utca 3. szám alatt. Kelt Budapesten, 2024. október 23. napján. Kovács és Társa Kft. [aláírás]”?",
+"options":[
+"Igen, és ez az értékpapír egy saját váltó.",
+"Igen, és ez az értékpapír egy idegen váltó.",
+"Igen, és ez az értékpapír egy csekk.",
+"Nem."
+],
 "answer":0,
 "explanation":"Ez egy saját váltó (ígérvény)."
 },
 {
-"question":"Az alábbi helyzetek közül mikor következik be a BEVA kártalanítási kötelezettsége?",
-"options":["nincs","nemteljesítés","felszámolás és nem tud kiadni","MNB dönt"],
+"question":"Az alábbi helyzetek közül mikor következik be a Befektető-védelmi Alap kártalanítási kötelezettsége?",
+"options":[
+"A Befektető-védelmi Alapnak nincs kártalanítási kötelezettsége.",
+"Akkor, ha az ügyfél befektetési vállalkozással szembeni követelését nem teljesíti.",
+"Akkor, ha a bíróság felszámolást rendel el és nem tudják kiadni az eszközöket.",
+"Akkor, ha az MNB így rendelkezik."
+],
 "answer":2,
-"explanation":"Csak fizetésképtelenség esetén."
+"explanation":"Felszámolás + eszközök ki nem adása esetén."
 },
 {
-"question":"Az alábbiak közül melyik értékpapír kerül kiállításra pénzkövetelésről?\n\nI. befektetési jegy\nII. váltó\nIII. jelzáloglevél\nIV. államkötvény",
-"options":["I, III","II, IV","II, III, IV","I, II, III és IV"],
+"question":"Az alábbiak közül melyik értékpapír kerül kiállításra pénzkövetelésről?\nI. a befektetési jegy\nII. a váltó\nIII. a jelzáloglevél\nIV. az államkötvény",
+"options":[
+"kizárólag I, III",
+"kizárólag II, IV",
+"kizárólag II, III, IV",
+"I, II, III és IV"
+],
 "answer":2,
-"explanation":"Váltó, jelzáloglevél, államkötvény."
+"explanation":"A váltó, jelzáloglevél és államkötvény pénzkövetelést testesít meg."
 },
 {
-"question":"Miből állapítható meg hogy jogi személy?",
-"options":["I, III","II, IV","I, II, III","I, II, III és IV"],
+"question":"Az alábbiak közül miből állapítható meg – a Ptk. általános szabályai alapján –, hogy egy piaci szereplő jogi személynek minősül-e?\nI. A tagjaitól elkülönített vagyonnal bír.\nII. Saját névvel, székhellyel, képviselővel rendelkezik.\nIII. Közhiteles nyilvántartásban szerepel.\nIV. Törvény által meghatározott típusban jön létre.",
+"options":[
+"kizárólag I, III",
+"kizárólag II, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
 "answer":3,
-"explanation":"Mind szükséges feltétel."
+"explanation":"Mind a négy feltétel szükséges."
 },
 {
-"question":"A nyilvánosan forgalomba hozott értékpapír milyen formában állítható elő?",
-"options":["nincs szabály","csak okirati","szabadon","csak dematerializált"],
+"question":"A nyilvánosan forgalomba hozott értékpapír – az állampapírok kivételével – az alábbiak közül milyen formában állítható elő?",
+"options":[
+"A nyilvánosan forgalomba hozott értékpapírok előállítására vonatkozóan nincs korlátozás.",
+"Kizárólag okirati formában.",
+"A kibocsátó választása szerint.",
+"Kizárólag dematerializált formában."
+],
 "answer":3,
-"explanation":"Nyilvánosnál kötelező dematerializált."
+"explanation":"Nyilvános kibocsátás esetén kötelező a dematerializált forma."
 },
 {
-"question":"A Bszt. alapján mit tartanak nyilván értékpapírszámlán?",
-"options":["határidős pozíciók","okirati + demat","demat","pénz"],
+"question":"A Bszt. (2007. évi CXXXVIII. törvény...) alapján a befektetési vállalkozások az alábbi eszközök közül milyen eszközöket tartanak nyilván az ún. értékpapírszámlán?",
+"options":[
+"Határidős pozíciókat.",
+"Dematerializált, illetve okirati formájú értékpapírokat.",
+"Dematerializált értékpapírokat.",
+"Pénzt, a számlatulajdonost megillető bevételt."
+],
 "answer":2,
-"explanation":"Csak dematerializált értékpapír."
+"explanation":"Az értékpapírszámla kizárólag dematerializált értékpapírokat tartalmaz."
 },
 {
-"question":"Hova fordulhat a fogyasztó vitás ügyben?",
-"options":["nincs fórum","PBT","miniszter","MNB"],
+"question":"Az alábbiak közül melyik testülethez fordulhat a fogyasztó a befektetési szolgáltatóval létrejött jogviszony teljesítésével kapcsolatos vitás ügy bíróságon kívüli rendezése érdekében?",
+"options":[
+"Magyarországon nincs ilyen fórum.",
+"A Magyar Nemzeti Bankon belül működő Pénzügyi Békéltető Testülethez.",
+"A nemzetgazdasági miniszterhez.",
+"A Magyar Nemzeti Bankhoz."
+],
 "answer":1,
 "explanation":"Pénzügyi Békéltető Testület."
 },
 {
-"question":"Zrt. rendelkezhet nyilvános részvénnyel?",
-"options":["igen","nem","csak limit alatt","nem bocsáthat ki"],
+"question":"Zártkörűen működő részvénytársaságnak lehet-e nyilvánosan forgalomba hozott részvénysorozata?",
+"options":[
+"Igen.",
+"Nem.",
+"Igen, de korlátozottan.",
+"Nem bocsáthat ki részvényt."
+],
 "answer":1,
-"explanation":"Zrt. = zártkörű, nem lehet nyilvános."
+"explanation":"Zrt. nem bocsáthat ki nyilvánosan forgalomba hozott részvényt."
 },
 {
-"question":"Az ÁÉKBV mozaikszó jelentése?",
-"options":["állami...","átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozás","átalakítható...","nincs ilyen"],
+"question":"Az ÁÉKBV mozaikszó minek a rövidítése?",
+"options":[
+"állami értékesítő...",
+"átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozás",
+"átalakítható...",
+"nincs ilyen"
+],
 "answer":1,
 "explanation":"UCITS magyar megfelelője."
 },
 {
-"question":"Az alábbi szabadságok közül melyeket biztosítja az Európai Unió egységes piaca?\n\nI. Az áruk szabad mozgását és a szolgáltatásnyújtás szabadságát.\nII. A tőke szabad mozgását.\nIII. A letelepedés szabadságát mind az Európai Unió polgárai, mind harmadik országok polgárai számára, valamint ezen országok munkavállalóinak szabad mozgását.\nIV. A digitális egységes piacot.",
-"options":["kizárólag I, II","kizárólag I, III","kizárólag I, II, IV","I, II, III és IV"],
+"question":"Az alábbi szabadságok közül melyeket biztosítja az Európai Unió egységes piaca? \nI. Az áruk szabad mozgását és a szolgáltatásnyújtás szabadságát.\nII. A tőke szabad mozgását.\nIII. A letelepedés szabadságát mind az Európai Unió polgárai, mind harmadik országok polgárai számára, valamint ezen országok munkavállalóinak szabad mozgását.\nIV. A digitális egységes piacot.",
+"options":[
+"kizárólag I, II",
+"kizárólag I, III",
+"kizárólag I, II, IV",
+"I, II, III és IV"
+],
 "answer":0,
-"explanation":"A 4 alapszabadság: áruk, szolgáltatások, tőke, személyek. A III hibás (harmadik országok), IV nem alapszabadság."
+"explanation":"A 4 alapszabadság: áruk, szolgáltatások, tőke, személyek. A III hibás (harmadik országokra nem teljes körű), a IV nem alapszabadság."
 },
 {
-"question":"Az alábbiak közül melyik pénzösszeg megfizetésére válhat kötelessé késedelmes teljesítés esetén a szerződés alapján nem pénzzel tartozó fél?",
-"options":["késedelmi kötbér","késedelmi kamat","opciós díj","bánatpénz"],
+"question":"Az alábbiak közül melyik pénzösszeg megfizetésére válhat kötelessé késedelmes teljesítés esetén a szerződés alapján nem pénzzel tartozó fél, amennyiben a szerződés így rendelkezik?",
+"options":[
+"Késedelmi kötbér megfizetésére.",
+"Késedelmi kamat megfizetésére.",
+"Opciós díj megfizetésére.",
+"Bánatpénz megfizetésére."
+],
 "answer":0,
-"explanation":"Nem pénztartozásnál kötbér alkalmazható."
+"explanation":"Nem pénztartozás esetén kötbér alkalmazható."
 },
 {
-"question":"Az alábbi szerződések közül melyikben vállalja a fél, hogy más kötelezett nemteljesítése esetén helytáll?",
-"options":["kizárólag I, III","kizárólag II, IV","kizárólag I, II, III","I, II, III és IV"],
+"question":"Az alábbi szerződések közül melyikben vállalja a szerződő fél a jogosulttal szemben azt, hogy amennyiben egy másik ügyletben a kötelezett nem teljesít a jogosultnak, úgy a jogosulttal szemben tevőlegesen helytáll?\nI. a kezesség\nII. a zálogjog\nIII. a garancia\nIV. a letét",
+"options":[
+"kizárólag I, III",
+"kizárólag II, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
 "answer":0,
-"explanation":"Kezesség és garancia."
+"explanation":"Kezesség és garancia tartozik ide."
 },
 {
-"question":"Az értékpapír kötelezettje hivatkozhat-e korábbi jogviszonyra a jóhiszemű jogosulttal szemben?",
-"options":["igen","nem csak okirati kifogás","csak ha ismeri","nem még rosszhiszeműnél sem"],
+"question":"Az értékpapír kötelezettje az értékpapír (értékpapírszámla) tartalmából kitűnő kifogásokon kívül hivatkozhat-e olyan kifogásra a jóhiszemű jogosulttal szemben, amely valamely korábbi jogosulttal szemben fennálló jogviszonyán alapul?",
+"options":[
+"Igen, minden korlátozás nélkül.",
+"Nem, kizárólag az értékpapír (értékpapírszámla) tartalmából kitűnő kifogásokra hivatkozhat.",
+"Kizárólag akkor, ha az értékpapír kötelezettje az értékpapír jogosultjának személyes ismerőse.",
+"Nem, sőt a kifogáskorlátozás a nem jóhiszemű jogosulttal szemben is megilleti az értékpapír kötelezettjét."
+],
 "answer":1,
 "explanation":"Kifogáskorlátozás elve."
 },
 {
-"question":"Melyik értékpapír testesít meg dologra vonatkozó jogot?",
-"options":["kárpótlási jegy","vagyonjegy","közraktári jegy","kincstárjegy"],
+"question":"Az alábbi értékpapírok közül melyik testesít meg dologra vonatkozó tulajdonjogot vagy más jogot?",
+"options":[
+"a kárpótlási jegy",
+"a vagyonjegy",
+"a közraktári jegy",
+"a kincstárjegy"
+],
 "answer":2,
-"explanation":"Közraktári jegy → áru feletti jog."
+"explanation":"A közraktári jegy áru feletti jogot testesít meg."
 },
 {
-"question":"Mi a teendő, ha az okirati értékpapír elveszett?",
-"options":["megsemmisítés","közjegyzői semmissé nyilvánítás","nincs teendő","új kibocsátás"],
+"question":"Az alábbiak közül mi a teendő akkor, ha az okirati értékpapír elveszett?",
+"options":[
+"Az értékpapírt fizikailag meg kell semmisíteni.",
+"Kezdeményezni kell az értékpapír közjegyzői semmissé nyilvánítását.",
+"Ilyen esetben nincs teendő, az értékpapír által biztosított jogok a kibocsátó nyilvántartása alapján gyakorolhatók.",
+"Ezt be kell jelenteni a kibocsátónak, aki új értékpapírt állít ki."
+],
 "answer":1,
 "explanation":"Megsemmisítési eljárás szükséges."
 },
 {
-"question":"Ki felel a befektetőnek jogszerűtlen kibocsátás esetén?",
-"options":["kibocsátó","ajánlattevő","piacra bevezető","mind egyetemlegesen"],
+"question":"Az alábbiak közül ki felel a befektetőnek azzal okozott kárért, ha az értékpapírt a törvényben meghatározott feltételek teljesítése nélkül hozták nyilvánosan forgalomba?",
+"options":[
+"Kizárólag a kibocsátó felel.",
+"Kizárólag az ajánlattevő felel.",
+"Kizárólag a piacra bevezető és a szolgáltató felel.",
+"A kibocsátó (ajánlattevő), a piacra bevezető és a befektetési szolgáltató egyetemlegesen felel."
+],
 "answer":3,
 "explanation":"Egyetemleges felelősség."
 },
 {
-"question":"Mely szolgáltatások minősülnek befektetési/kiegészítő szolgáltatásnak?",
-"options":["I, II","II, III","I, II, III","I, II, III és IV"],
+"question":"Az alábbiak közül mely szolgáltatások minősülnek befektetési szolgáltatásnak vagy kiegészítő szolgáltatásnak?\nI. a saját számlás kereskedés pénzügyi eszközre\nII. a befektetési tanácsadás\nIII. a befektetési elemzés és pénzügyi elemzés\nIV. az üzletviteli tanácsadás",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
 "answer":2,
-"explanation":"Üzletviteli tanácsadás nem tartozik ide."
+"explanation":"Az üzletviteli tanácsadás nem tartozik ide."
 },
 {
-"question":"Melyik minősül pénzügyi eszköznek?",
-"options":["I, II","III, IV","I, III, IV","I, II, III és IV"],
+"question":"Az alábbiak közül melyik eszköz minősül ún. pénzügyi eszköznek?\nI. a pénz\nII. a fizetésiszámla követelés\nIII. az átruházható értékpapír\nIV. a kollektív befektetési forma által kibocsátott értékpapír",
+"options":[
+"kizárólag I, II",
+"kizárólag III, IV",
+"kizárólag I, III, IV",
+"I, II, III és IV"
+],
 "answer":1,
-"explanation":"Pénz és számlakövetelés nem."
+"explanation":"A pénz és számlakövetelés nem pénzügyi eszköz."
 },
 {
-"question":"Melyik minősül szabályozott piacnak Magyarországon?",
-"options":["I, II, III","II, III","II, III, IV","I, II, III és IV"],
+"question":"Az alábbiak közül melyik intézmény, illetve piac minősül Magyarországon ún. szabályozott piacnak?\nI. A Közösség Zrt. platformja\nII. BÉT Standard kategória\nIII. BÉT Prémium kategória\nIV. BÉT Xbond",
+"options":[
+"kizárólag I, II, III",
+"kizárólag II, III",
+"kizárólag II, III, IV",
+"I, II, III és IV"
+],
 "answer":1,
-"explanation":"Standard és prémium kategória."
+"explanation":"Standard és Prémium kategória szabályozott piac."
 },
 {
-"question":"Ki vezeti a központi értékpapírszámlákat?",
-"options":["kibocsátó","MNB","KELER KSZF","KELER Zrt."],
+"question":"Az alábbi piaci szereplők közül melyik vezeti az ún. központi értékpapírszámlákat?",
+"options":[
+"Az értékpapír kibocsátója.",
+"A Magyar Nemzeti Bank.",
+"A KELER KSZF Zrt.",
+"A KELER Központi Értéktár Zrt."
+],
 "answer":3,
-"explanation":"KELER mint CSD."
+"explanation":"KELER mint központi értéktár."
 },
 {
-"question":"Mely értékpapírt bocsáthat ki bank?",
-"options":["I, II","II, III","I, II, III","I, II, III és IV"],
+"question":"Az alábbiak közül melyik értékpapír kibocsátására jogosult egy bank?\nI. részvény\nII. kötvény\nIII. letéti jegy\nIV. kincstárjegy",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
 "answer":2,
-"explanation":"Kincstárjegyet nem."
+"explanation":"Kincstárjegyet az állam bocsát ki."
 },
 {
-"question":"Melyik szabályozott értékpapír?",
-"options":["I, III","II, III","II, III, IV","I, II, III és IV"],
+"question":"Az alábbi eszközök közül melyik minősül Magyarországon szabályozott értékpapírnak?\nI. az opció\nII. a befektetési jegy\nIII. a vagyonjegy\nIV. a másodlagos értékpapír",
+"options":[
+"kizárólag I, III",
+"kizárólag II, III",
+"kizárólag II, III, IV",
+"I, II, III és IV"
+],
 "answer":1,
 "explanation":"Opció nem értékpapír."
 },
 {
-"question":"Mi biztosítja a jelzáloglevél biztonságát?",
-"options":["I, II","II, IV","I, II, III","I, II, III és IV"],
+"question":"Az alábbiak közül mi biztosítja a jelzáloglevélben foglalt követelés viszonylagos biztonságát?\nI. Speciális hitelintézet\nII. Nyilvántartás\nIII. Fedezeti eszközök\nIV. Felszámolási elsőbbség",
+"options":[
+"kizárólag I, II",
+"kizárólag II, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
 "answer":2,
 "explanation":"IV hibás."
 },
 {
-"question":"Értékpapír-e a részvényutalvány?",
-"options":["igen bejegyzés után","igen bejegyzésig","nem szándéknyilatkozat","nem, de jogokat igazol"],
+"question":"Értékpapírnak minősül-e a részvényutalvány?",
+"options":[
+"Igen, bejegyzés után.",
+"Igen, bejegyzésig.",
+"Nem, szándéknyilatkozat.",
+"Nem, de jogokat igazol."
+],
 "answer":3,
-"explanation":"Nem értékpapír, de igazoló okirat."
+"explanation":"Nem értékpapír, hanem igazoló okirat."
 },
-
 {
-"question":"Az alábbi jogi aktusok közül melyik az, amely kötelező erővel nem bíró jogalkalmazás ismertető eszköz, valamint az Európai Felügyeleti Hatóságok iránymutatásai és ajánlásai átültetésének eszköze?",
-"options":["kormányrendelet","MNB ajánlás","EU felhatalmazáson alapuló rendelet","MNB körlevél"],
+"question":"Az alábbi szabadságok közül melyeket biztosítja az Európai Unió egységes piaca? \nI. Az áruk szabad mozgását és a szolgáltatásnyújtás szabadságát.\nII. A tőke szabad mozgását.\nIII. A letelepedés szabadságát mind az Európai Unió polgárai, mind harmadik országok polgárai számára, valamint ezen országok munkavállalóinak szabad mozgását.\nIV. A digitális egységes piacot.",
+"options":[
+"kizárólag I, II",
+"kizárólag I, III",
+"kizárólag I, II, IV",
+"I, II, III és IV"
+],
+"answer":0,
+"explanation":"A 4 alapszabadság: áruk, szolgáltatások, tőke, személyek. A III hibás (harmadik országokra nem teljes körű), a IV nem alapszabadság."
+},
+{
+"question":"Az alábbiak közül melyik pénzösszeg megfizetésére válhat kötelessé késedelmes teljesítés esetén a szerződés alapján nem pénzzel tartozó fél, amennyiben a szerződés így rendelkezik?",
+"options":[
+"Késedelmi kötbér megfizetésére.",
+"Késedelmi kamat megfizetésére.",
+"Opciós díj megfizetésére.",
+"Bánatpénz megfizetésére."
+],
+"answer":0,
+"explanation":"Nem pénztartozás esetén kötbér alkalmazható."
+},
+{
+"question":"Az alábbi szerződések közül melyikben vállalja a szerződő fél a jogosulttal szemben azt, hogy amennyiben egy másik ügyletben a kötelezett nem teljesít a jogosultnak, úgy a jogosulttal szemben tevőlegesen helytáll?\nI. a kezesség\nII. a zálogjog\nIII. a garancia\nIV. a letét",
+"options":[
+"kizárólag I, III",
+"kizárólag II, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
+"answer":0,
+"explanation":"Kezesség és garancia tartozik ide."
+},
+{
+"question":"Az értékpapír kötelezettje az értékpapír (értékpapírszámla) tartalmából kitűnő kifogásokon kívül hivatkozhat-e olyan kifogásra a jóhiszemű jogosulttal szemben, amely valamely korábbi jogosulttal szemben fennálló jogviszonyán alapul?",
+"options":[
+"Igen, minden korlátozás nélkül.",
+"Nem, kizárólag az értékpapír (értékpapírszámla) tartalmából kitűnő kifogásokra hivatkozhat.",
+"Kizárólag akkor, ha az értékpapír kötelezettje az értékpapír jogosultjának személyes ismerőse.",
+"Nem, sőt a kifogáskorlátozás a nem jóhiszemű jogosulttal szemben is megilleti az értékpapír kötelezettjét."
+],
+"answer":1,
+"explanation":"Kifogáskorlátozás elve."
+},
+{
+"question":"Az alábbi értékpapírok közül melyik testesít meg dologra vonatkozó tulajdonjogot vagy más jogot?",
+"options":[
+"a kárpótlási jegy",
+"a vagyonjegy",
+"a közraktári jegy",
+"a kincstárjegy"
+],
+"answer":2,
+"explanation":"A közraktári jegy áru feletti jogot testesít meg."
+},
+{
+"question":"Az alábbiak közül mi a teendő akkor, ha az okirati értékpapír elveszett?",
+"options":[
+"Az értékpapírt fizikailag meg kell semmisíteni.",
+"Kezdeményezni kell az értékpapír közjegyzői semmissé nyilvánítását.",
+"Ilyen esetben nincs teendő, az értékpapír által biztosított jogok a kibocsátó nyilvántartása alapján gyakorolhatók.",
+"Ezt be kell jelenteni a kibocsátónak, aki új értékpapírt állít ki."
+],
+"answer":1,
+"explanation":"Megsemmisítési eljárás szükséges."
+},
+{
+"question":"Az alábbiak közül ki felel a befektetőnek azzal okozott kárért, ha az értékpapírt a törvényben meghatározott feltételek teljesítése nélkül hozták nyilvánosan forgalomba?",
+"options":[
+"Kizárólag a kibocsátó felel.",
+"Kizárólag az ajánlattevő felel.",
+"Kizárólag a piacra bevezető és a szolgáltató felel.",
+"A kibocsátó (ajánlattevő), a piacra bevezető és a befektetési szolgáltató egyetemlegesen felel."
+],
+"answer":3,
+"explanation":"Egyetemleges felelősség."
+},
+{
+"question":"Az alábbiak közül mely szolgáltatások minősülnek befektetési szolgáltatásnak vagy kiegészítő szolgáltatásnak?\nI. a saját számlás kereskedés pénzügyi eszközre\nII. a befektetési tanácsadás\nIII. a befektetési elemzés és pénzügyi elemzés\nIV. az üzletviteli tanácsadás",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
+"answer":2,
+"explanation":"Az üzletviteli tanácsadás nem tartozik ide."
+},
+{
+"question":"Az alábbiak közül melyik eszköz minősül ún. pénzügyi eszköznek?\nI. a pénz\nII. a fizetésiszámla követelés\nIII. az átruházható értékpapír\nIV. a kollektív befektetési forma által kibocsátott értékpapír",
+"options":[
+"kizárólag I, II",
+"kizárólag III, IV",
+"kizárólag I, III, IV",
+"I, II, III és IV"
+],
+"answer":1,
+"explanation":"A pénz és számlakövetelés nem pénzügyi eszköz."
+},
+{
+"question":"Az alábbiak közül melyik intézmény, illetve piac minősül Magyarországon ún. szabályozott piacnak?\nI. A Közösség Zrt. platformja\nII. BÉT Standard kategória\nIII. BÉT Prémium kategória\nIV. BÉT Xbond",
+"options":[
+"kizárólag I, II, III",
+"kizárólag II, III",
+"kizárólag II, III, IV",
+"I, II, III és IV"
+],
+"answer":1,
+"explanation":"Standard és Prémium kategória szabályozott piac."
+},
+{
+"question":"Az alábbi piaci szereplők közül melyik vezeti az ún. központi értékpapírszámlákat?",
+"options":[
+"Az értékpapír kibocsátója.",
+"A Magyar Nemzeti Bank.",
+"A KELER KSZF Zrt.",
+"A KELER Központi Értéktár Zrt."
+],
+"answer":3,
+"explanation":"KELER mint központi értéktár."
+},
+{
+"question":"Az alábbiak közül melyik értékpapír kibocsátására jogosult egy bank?\nI. részvény\nII. kötvény\nIII. letéti jegy\nIV. kincstárjegy",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
+"answer":2,
+"explanation":"Kincstárjegyet az állam bocsát ki."
+},
+{
+"question":"Az alábbi eszközök közül melyik minősül Magyarországon szabályozott értékpapírnak?\nI. az opció\nII. a befektetési jegy\nIII. a vagyonjegy\nIV. a másodlagos értékpapír",
+"options":[
+"kizárólag I, III",
+"kizárólag II, III",
+"kizárólag II, III, IV",
+"I, II, III és IV"
+],
+"answer":1,
+"explanation":"Opció nem értékpapír."
+},
+{
+"question":"Az alábbiak közül mi biztosítja a jelzáloglevélben foglalt követelés viszonylagos biztonságát?\nI. Speciális hitelintézet\nII. Nyilvántartás\nIII. Fedezeti eszközök\nIV. Felszámolási elsőbbség",
+"options":[
+"kizárólag I, II",
+"kizárólag II, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
+"answer":2,
+"explanation":"IV hibás."
+},
+{
+"question":"Értékpapírnak minősül-e a részvényutalvány?",
+"options":[
+"Igen, bejegyzés után.",
+"Igen, bejegyzésig.",
+"Nem, szándéknyilatkozat.",
+"Nem, de jogokat igazol."
+],
+"answer":3,
+"explanation":"Nem értékpapír, hanem igazoló okirat."
+},
+{
+"question":"Az alábbi jogi aktusok közül melyik az, amely kötelező erővel nem bíró jogalkalmazás ismertető eszköz, valamint az Európai Felügyeleti Hatóságok (ESMA, EBA, EIOPA, ESRB) iránymutatásai és ajánlásai átültetésének eszköze, és célja az egységes jogalkalmazás elősegítése?",
+"options":[
+"a kormányrendelet",
+"az MNB Pénzügyi Stabilitási Tanácsának ajánlása",
+"az Európai Bizottság felhatalmazáson alapuló rendelete",
+"az MNB elnökének vezetői körlevele"
+],
 "answer":1,
 "explanation":"Az MNB ajánlás nem kötelező, de egységes jogalkalmazást segít."
 },
 {
 "question":"Érvényesen köthető jogszabályban nem nevesített szerződés?",
-"options":["nem","nem ha nincs szabályozva","tilos","igen ha nem tiltott"],
+"options":[
+"Nem, kizárólag a jogszabályban nevesített szerződéseket lehet érvényesen megkötni.",
+"Nem, kizárólag olyan szerződés köthető, amelynek legalább a lényeges elemeit jogszabály tételesen szabályozza.",
+"Nem, az ilyen szerződés tilos, és az állam büntetőjogi eszközökkel is biztosítja ennek a szabálynak a betartását.",
+"Igen, bármilyen olyan szerződés, amelyet jogszabály nem tilt."
+],
 "answer":3,
-"explanation":"Szerződési szabadság elve."
+"explanation":"A szerződési szabadság elve alapján ami nem tiltott, megengedett."
 },
 {
-"question":"Mi jellemzi az értékpapírokat?",
-"options":["I, II","III, IV","I, III, IV","I, II, III és IV"],
+"question":"Az alábbiak közül mi jellemzi az értékpapírokat?\nI. Az értékpapír a kibocsátó és a befektető közötti szerződés.\nII. Az értékpapír jogosultja az értékpapír anyagi jogi jogosultja, azaz a tulajdonos.\nIII. Az értékpapír átruházásával az értékpapírban rögzített jogosultság kerül átruházásra.\nIV. Az értékpapír jogszabály által meghatározott kellékekkel rendelkezik (kellékszigor).",
+"options":[
+"kizárólag I, II",
+"kizárólag III, IV",
+"kizárólag I, III, IV",
+"I, II, III és IV"
+],
 "answer":3,
-"explanation":"Mind igaz."
+"explanation":"Mind a négy állítás igaz."
 },
 {
-"question":"Melyik minősül nevesített értékpapírnak?",
-"options":["I, II","II, III","II, III, IV","I, II, III és IV"],
+"question":"Az alábbiak közül melyik eszköz minősül a hatályos magyar jog által szabályozott (nevesített) értékpapírnak?\nI. a közraktári jegy\nII. a kincstárjegy\nIII. a warrant\nIV. a swap ügylet",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III",
+"kizárólag II, III, IV",
+"I, II, III és IV"
+],
 "answer":0,
-"explanation":"Swap nem értékpapír."
+"explanation":"A swap nem értékpapír."
 },
 {
-"question":"Nyíltvégű alap befektetési jegye visszaváltható?",
-"options":["nem","névértéken","nettó eszközértéken","tőzsdei árfolyamon"],
+"question":"A nyíltvégű befektetési alap befektetési jegye visszaváltható-e, és ha igen, az alábbiak közül milyen értéken?",
+"options":[
+"A nyíltvégű befektetési alap befektetési jegye nem visszaváltható.",
+"Igen, a névértéken.",
+"Igen, a nettó eszközértéken.",
+"Igen, a tőzsdei középárfolyamon."
+],
 "answer":2,
-"explanation":"NAV-on történik."
+"explanation":"NAV-on történik a visszaváltás."
 },
 {
-"question":"Mi szükséges nyilvános kibocsátáshoz?",
-"options":["alapító okirat","tájékoztató","információs anyag","semmi"],
+"question":"Az általános szabályok szerint az alábbiak közül mely dokumentum elkészítése szükséges a sorozatban kibocsátott értékpapír nyilvános forgalomba hozatalához?",
+"options":[
+"Alapító okirat készítése.",
+"Tájékoztató készítése.",
+"Információs összeállítás készítése.",
+"Nem szükséges dokumentumot készíteni."
+],
 "answer":1,
 "explanation":"Prospektus kötelező."
 },
 {
-"question":"Mely szabályok vonatkoznak a tájékoztatásra?",
-"options":["I, III","II, IV","I, II, III","I, II, III és IV"],
+"question":"Az alábbiak közül mely szabályok vonatkoznak a nyilvánosan forgalomba hozott értékpapír kibocsátóját terhelő tájékoztatási kötelezettségre?\nI. A kibocsátó megkülönböztetésmentesen és gyors hozzáférést biztosítva köteles nyilvánosságra hozni a szabályozott információkat.\nII. A kibocsátó a szabályozott információk nyilvánosságra hozataláért díjat nem számíthat fel.\nIII. A szabályozott információkat a lehető legszélesebb nyilvánossághoz kell eljuttatni.\nIV. A szabályozott információk nyilvánosságra hozatalára a jogszabály határidőt nem állapít meg, az a kibocsátó döntésétől függ.",
+"options":[
+"kizárólag I, III",
+"kizárólag II, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
 "answer":2,
-"explanation":"IV hibás (van határidő)."
+"explanation":"IV hamis, mert határidők vannak."
 },
 {
-"question":"Hol jelennek meg fenntarthatósági kérdések?",
-"options":["üzletszabályzat","Taxonómia rendelet","MiFID teszt","sehol"],
+"question":"Hol kell feltüntetniük a tőkepiaci szereplőknek az ügyfél fenntarthatósági preferenciáira vonatkozó kérdéseket?",
+"options":[
+"Az üzletszabályzatban tájékoztató jelleggel.",
+"A Taxonómia rendeletben.",
+"Az ún. MiFID tesztben.",
+"Sehol."
+],
 "answer":2,
-"explanation":"Suitability része."
+"explanation":"Az alkalmassági (MiFID) teszt része."
 },
 {
-"question":"Kell-e befektetési szolgáltató kötvény kibocsátáshoz?",
-"options":["igen mindig","igen kivétellel","igen minősített befektetőnél nem","nem"],
+"question":"Kötvény nyilvános, tájékoztató nélküli forgalomba hozatala esetén kötelező igénybe venni befektetési szolgáltatót?",
+"options":[
+"Igen, kivétel nélkül.",
+"Igen, kivéve, ha a kibocsátó befektetési vállalkozás.",
+"Igen, kivéve, ha a befektető minősített befektető.",
+"Nem."
+],
 "answer":1,
-"explanation":"Vannak kivételek."
+"explanation":"Van kivétel."
 },
 {
-"question":"Milyen alapokat különböztet meg a szabályozás?",
-"options":["harmonikus","ÁÉKBV vagy ABA","nyilvános/zárt","nyílt/zárt"],
+"question":"A harmonizáció szempontjából a szabályozás milyen befektetési alapokat különböztet meg?",
+"options":[
+"Harmonikus vagy nem harmonikus.",
+"ÁÉKBV vagy ABA.",
+"Nyilvános vagy zártkörű.",
+"Nyíltvégű vagy zártvégű."
+],
 "answer":1,
 "explanation":"UCITS vs AIF."
 },
 {
-"question":"Kell-e igazgatóság befektetési vállalkozásnál?",
-"options":["igen mindig","igen ha nincs 2 ügyvezető","csak fióktelep","nem kötelező"],
+"question":"Igaz-e az az állítás, hogy a befektetési vállalkozásnak mindenképpen kell igazgatósággal rendelkeznie?",
+"options":[
+"Igen, a Bszt. szerint kötelező.",
+"Igen, ha nincs két ügyvezető.",
+"Csak fióktelep esetén.",
+"Nem, nem kötelező az igazgatóság felállítása, elegendő egy vezérigazgató kijelölése, de két ügyvezető kell."
+],
 "answer":3,
-"explanation":"Két ügyvezető kell, de nem feltétlen testület."
+"explanation":"Két ügyvezető kell, de nem kötelező testület."
 },
 {
-"question":"Kire kell tájékozódást lefolytatni jogi személy esetén?",
-"options":["meghatalmazott","jogi személy","mindkettő","mindenki"],
+"question":"Jogi személy és meghatalmazottal eljáró természetes személy esetén kire kell az előzetes tájékozódást lefolytatni a befektetési céllal és a pénzügyi helyzettel kapcsolatban?",
+"options":[
+"Kizárólag a meghatalmazottra.",
+"Kizárólag a jogi személyre.",
+"A természetes személyre és a jogi személyre.",
+"A jogi személyre és képviselőire is."
+],
 "answer":1,
-"explanation":"Ügyfél = jogi személy."
+"explanation":"Az ügyfél a jogi személy."
 },
 {
-"question":"Hol kell szerepeltetni fenntarthatósági kérdéseket?",
-"options":["alkalmassági teszt","marketing","megfelelési teszt","nem kötelező"],
+"question":"Hol kell szerepeltetniük a tőkepiaci szereplőknek az ügyfél fenntarthatósági preferenciáira vonatkozó kérdéseiket?",
+"options":[
+"Az ún. alkalmassági tesztben.",
+"A marketing kérdőívben.",
+"Az ún. megfelelési tesztben.",
+"Nem kötelező."
+],
 "answer":0,
 "explanation":"Suitability része."
 },
 {
-"question":"Mi jellemzi a portfóliókezelést?",
-"options":["I, II, III","I, III","II, IV","I, II, III és IV"],
+"question":"Az alábbiak közül mi jellemzi a portfóliókezelési tevékenységet?\nI. Az ügyfél eszközei pénzügyi eszközökbe kerülnek befektetésre az ügyfél általános megbízása alapján.\nII. A befektetési döntések keretét az ügyfél előzetesen meghatározza.\nIII. A befektetések kockázatát és hozamát közvetlenül az ügyfél viseli.\nIV. A befektetési vállalkozás saját számlájára fekteti be az ügyfél pénzét.",
+"options":[
+"kizárólag I, II, III",
+"kizárólag I, III",
+"kizárólag II, IV",
+"I, II, III és IV"
+],
 "answer":0,
-"explanation":"IV hibás (nem saját számla)."
+"explanation":"IV hamis."
 },
 {
-"question":"Mire alkalmas a bizalmi vagyonkezelés?",
-"options":["I, II, IV","I, IV","I, II, III","I, II, III és IV"],
+"question":"Kérem, jelölje meg, hogy az alábbiak közül mely célok elérésére alkalmas a bizalmi vagyonkezelési struktúra!\nI. Gondnokság alá helyezett családtagok védelme.\nII. Adó- és illetékmentesség bizonyos feltételekkel.\nIII. Tulajdonos elfedése.\nIV. Felelősség korlátozása.",
+"options":[
+"kizárólag I, II, IV",
+"kizárólag I, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
 "answer":3,
-"explanation":"Mind igaz."
+"explanation":"Mind a négy igaz."
+}
+]
+"explanation":"Nem értékpapír, hanem igazoló okirat."
+},
+{
+"question":"Az alábbi jogi aktusok közül melyik az, amely kötelező erővel nem bíró jogalkalmazás ismertető eszköz, valamint az Európai Felügyeleti Hatóságok (ESMA, EBA, EIOPA, ESRB) iránymutatásai és ajánlásai átültetésének eszköze, és célja az egységes jogalkalmazás elősegítése?",
+"options":[
+"a kormányrendelet",
+"az MNB Pénzügyi Stabilitási Tanácsának ajánlása",
+"az Európai Bizottság felhatalmazáson alapuló rendelete",
+"az MNB elnökének vezetői körlevele"
+],
+"answer":1,
+"explanation":"Az MNB ajánlás nem kötelező, de egységes jogalkalmazást segít."
+},
+{
+"question":"Érvényesen köthető jogszabályban nem nevesített szerződés?",
+"options":[
+"Nem, kizárólag a jogszabályban nevesített szerződéseket lehet érvényesen megkötni.",
+"Nem, kizárólag olyan szerződés köthető, amelynek legalább a lényeges elemeit jogszabály tételesen szabályozza.",
+"Nem, az ilyen szerződés tilos, és az állam büntetőjogi eszközökkel is biztosítja ennek a szabálynak a betartását.",
+"Igen, bármilyen olyan szerződés, amelyet jogszabály nem tilt."
+],
+"answer":3,
+"explanation":"A szerződési szabadság elve alapján ami nem tiltott, megengedett."
+},
+{
+"question":"Az alábbiak közül mi jellemzi az értékpapírokat?\nI. Az értékpapír a kibocsátó és a befektető közötti szerződés.\nII. Az értékpapír jogosultja az értékpapír anyagi jogi jogosultja, azaz a tulajdonos.\nIII. Az értékpapír átruházásával az értékpapírban rögzített jogosultság kerül átruházásra.\nIV. Az értékpapír jogszabály által meghatározott kellékekkel rendelkezik (kellékszigor).",
+"options":[
+"kizárólag I, II",
+"kizárólag III, IV",
+"kizárólag I, III, IV",
+"I, II, III és IV"
+],
+"answer":3,
+"explanation":"Mind a négy állítás igaz."
+},
+{
+"question":"Az alábbiak közül melyik eszköz minősül a hatályos magyar jog által szabályozott (nevesített) értékpapírnak?\nI. a közraktári jegy\nII. a kincstárjegy\nIII. a warrant\nIV. a swap ügylet",
+"options":[
+"kizárólag I, II",
+"kizárólag II, III",
+"kizárólag II, III, IV",
+"I, II, III és IV"
+],
+"answer":0,
+"explanation":"A swap nem értékpapír."
+},
+{
+"question":"A nyíltvégű befektetési alap befektetési jegye visszaváltható-e, és ha igen, az alábbiak közül milyen értéken?",
+"options":[
+"A nyíltvégű befektetési alap befektetési jegye nem visszaváltható.",
+"Igen, a névértéken.",
+"Igen, a nettó eszközértéken.",
+"Igen, a tőzsdei középárfolyamon."
+],
+"answer":2,
+"explanation":"NAV-on történik a visszaváltás."
+},
+{
+"question":"Az általános szabályok szerint az alábbiak közül mely dokumentum elkészítése szükséges a sorozatban kibocsátott értékpapír nyilvános forgalomba hozatalához?",
+"options":[
+"Alapító okirat készítése.",
+"Tájékoztató készítése.",
+"Információs összeállítás készítése.",
+"Nem szükséges dokumentumot készíteni."
+],
+"answer":1,
+"explanation":"Prospektus kötelező."
+},
+{
+"question":"Az alábbiak közül mely szabályok vonatkoznak a nyilvánosan forgalomba hozott értékpapír kibocsátóját terhelő tájékoztatási kötelezettségre?\nI. A kibocsátó megkülönböztetésmentesen és gyors hozzáférést biztosítva köteles nyilvánosságra hozni a szabályozott információkat.\nII. A kibocsátó a szabályozott információk nyilvánosságra hozataláért díjat nem számíthat fel.\nIII. A szabályozott információkat a lehető legszélesebb nyilvánossághoz kell eljuttatni.\nIV. A szabályozott információk nyilvánosságra hozatalára a jogszabály határidőt nem állapít meg, az a kibocsátó döntésétől függ.",
+"options":[
+"kizárólag I, III",
+"kizárólag II, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
+"answer":2,
+"explanation":"IV hamis, mert határidők vannak."
+},
+{
+"question":"Hol kell feltüntetniük a tőkepiaci szereplőknek az ügyfél fenntarthatósági preferenciáira vonatkozó kérdéseket?",
+"options":[
+"Az üzletszabályzatban tájékoztató jelleggel.",
+"A Taxonómia rendeletben.",
+"Az ún. MiFID tesztben.",
+"Sehol."
+],
+"answer":2,
+"explanation":"Az alkalmassági (MiFID) teszt része."
+},
+{
+"question":"Kötvény nyilvános, tájékoztató nélküli forgalomba hozatala esetén kötelező igénybe venni befektetési szolgáltatót?",
+"options":[
+"Igen, kivétel nélkül.",
+"Igen, kivéve, ha a kibocsátó befektetési vállalkozás.",
+"Igen, kivéve, ha a befektető minősített befektető.",
+"Nem."
+],
+"answer":1,
+"explanation":"Van kivétel."
+},
+{
+"question":"A harmonizáció szempontjából a szabályozás milyen befektetési alapokat különböztet meg?",
+"options":[
+"Harmonikus vagy nem harmonikus.",
+"ÁÉKBV vagy ABA.",
+"Nyilvános vagy zártkörű.",
+"Nyíltvégű vagy zártvégű."
+],
+"answer":1,
+"explanation":"UCITS vs AIF."
+},
+{
+"question":"Igaz-e az az állítás, hogy a befektetési vállalkozásnak mindenképpen kell igazgatósággal rendelkeznie?",
+"options":[
+"Igen, a Bszt. szerint kötelező.",
+"Igen, ha nincs két ügyvezető.",
+"Csak fióktelep esetén.",
+"Nem, nem kötelező az igazgatóság felállítása, elegendő egy vezérigazgató kijelölése, de két ügyvezető kell."
+],
+"answer":3,
+"explanation":"Két ügyvezető kell, de nem kötelező testület."
+},
+{
+"question":"Jogi személy és meghatalmazottal eljáró természetes személy esetén kire kell az előzetes tájékozódást lefolytatni a befektetési céllal és a pénzügyi helyzettel kapcsolatban?",
+"options":[
+"Kizárólag a meghatalmazottra.",
+"Kizárólag a jogi személyre.",
+"A természetes személyre és a jogi személyre.",
+"A jogi személyre és képviselőire is."
+],
+"answer":1,
+"explanation":"Az ügyfél a jogi személy."
+},
+{
+"question":"Hol kell szerepeltetniük a tőkepiaci szereplőknek az ügyfél fenntarthatósági preferenciáira vonatkozó kérdéseiket?",
+"options":[
+"Az ún. alkalmassági tesztben.",
+"A marketing kérdőívben.",
+"Az ún. megfelelési tesztben.",
+"Nem kötelező."
+],
+"answer":0,
+"explanation":"Suitability része."
+},
+{
+"question":"Az alábbiak közül mi jellemzi a portfóliókezelési tevékenységet?\nI. Az ügyfél eszközei pénzügyi eszközökbe kerülnek befektetésre az ügyfél általános megbízása alapján.\nII. A befektetési döntések keretét az ügyfél előzetesen meghatározza.\nIII. A befektetések kockázatát és hozamát közvetlenül az ügyfél viseli.\nIV. A befektetési vállalkozás saját számlájára fekteti be az ügyfél pénzét.",
+"options":[
+"kizárólag I, II, III",
+"kizárólag I, III",
+"kizárólag II, IV",
+"I, II, III és IV"
+],
+"answer":0,
+"explanation":"IV hamis."
+},
+{
+"question":"Kérem, jelölje meg, hogy az alábbiak közül mely célok elérésére alkalmas a bizalmi vagyonkezelési struktúra!\nI. Gondnokság alá helyezett családtagok védelme.\nII. Adó- és illetékmentesség bizonyos feltételekkel.\nIII. Tulajdonos elfedése.\nIV. Felelősség korlátozása.",
+"options":[
+"kizárólag I, II, IV",
+"kizárólag I, IV",
+"kizárólag I, II, III",
+"I, II, III és IV"
+],
+"answer":3,
+"explanation":"Mind a négy igaz."
 }
 ]
